@@ -1,0 +1,1413 @@
+ID: 12389 | Title: an innovative approach to improve the performances of the research community
+ID: 12391 | Title: job pre-interview system with artificial intelligence
+ID: 12392 | Title: one approach to the classification of business knowledge diagrams: practical view
+ID: 12397 | Title: towards a context-aware personalized formative assessment in a collaborative online environment
+ID: 12399 | Title: semantic formative e-assessment for project management professionals
+ID: 12401 | Title: augmenting the knowledge bandwidth and connecting heterogeneous expert communities through uncovering tacit knowledge
+ID: 12402 | Title: automatic generation of assessment objects and remedial works for moocs
+ID: 12404 | Title: maps4learning: enacting geo-education to enhance student achievement
+ID: 12405 | Title: predictive data analysis techniques applied to dropping out of university studies
+ID: 12406 | Title: aggregation of engineering and language skills development in the global information environment
+ID: 12407 | Title: automated construction of young specialists models with the use of tutoring integrated expert systems
+ID: 12408 | Title: correcting open-answer questionnaires through a bayesian-network model of peer-based assessment
+ID: 12410 | Title: cisis 2012 keynote
+ID: 12411 | Title: designing pedagogical devices
+ID: 12413 | Title: skills of engineers in knowledge based economies: a comprehensive literature review, and model development
+ID: 12414 | Title: a recommender system as a support and training tool
+ID: 12415 | Title: it skills in romania
+ID: 12417 | Title: automatic question generation with classification based on mind map
+ID: 12418 | Title: constructing a semantic wiki-based teamwork platform for collaborative e-research
+ID: 12419 | Title: logical operative processes of semantic grammar for machine interpretation
+ID: 12420 | Title: providing knowledge support in business process: a context based approach
+ID: 12421 | Title: using tag clouds to support the comparison of qualifications, résumés and job profiles
+ID: 12422 | Title: support for collaborative development of a customer solution in railway transport
+ID: 12423 | Title: development of integrated information systems to support scientific activity
+ID: 12478 | Title: a knowledge representation model for massive open online course platforms
+ID: 12506 | Title: durio concept evaluation
+ID: 12507 | Title: semantic web technology as a tool for integrating training and job market supply chains
+ID: 12518 | Title: an approach for the personalization of exercises based on contextualized attention metadata and semantic web technologies
+ID: 12519 | Title: intelligent visual reasoning tutor
+ID: 12522 | Title: ensuring semantic annotation and retrieval within pervasive e-learning systems
+ID: 12686 | Title: 
+ID: 12726 | Title: a study of the impact of task complexity and interface design on e-learning task adaptations
+ID: 12737 | Title: towards the development of an adaptive e-learning system with chatbot using personalized e-learning model
+ID: 12780 | Title: 
+ID: 12792 | Title: software product line to overcome the variability issue in e-learning: systematic literature review
+ID: 12854 | Title: topic maps as a tool for facilitating collaborative work pedagogy in knowledge management systems
+ID: 12859 | Title: impact of the development of critical thinking skills and academic development of vulnerable students during confinement due to covid-19: impact of the development of critical thinking skills and academic development of vulnerable students
+ID: 12860 | Title: feeding a monster or doing good? mining industrial design student feedback at large
+ID: 12867 | Title: student profile modeling: an overview model
+ID: 12868 | Title: attitude towards the use of mobile devices for the practice of oral skills in english
+ID: 12874 | Title: semantic web based software platform for curriculum harmonization
+ID: 12882 | Title: staffer: skill training alliance for the future european rail system✱
+ID: 12897 | Title: the facets of intangible heritage in southern chinese martial arts: applying a knowledge-driven cultural contact detection approach
+ID: 12898 | Title: a context based approach to adapt training strategy for handicraft women from third world countries
+ID: 12899 | Title: "multi-national cyber security exercise, case flagship&nbsp;2"
+ID: 12901 | Title: apft: active peer-based flip teaching
+ID: 12904 | Title: acci 3.0. technique of classification, organization, creation and use of collective knowledge
+ID: 12908 | Title: design of a semantic web and osgi based middleware for its development
+ID: 12909 | Title: enabling digital craftsmanship capacity building: a digital dalton plan approach
+ID: 12910 | Title: interdisciplinary projects in the academic studio
+ID: 12912 | Title: lonet: an interactive search network for intelligent lecture path generation
+ID: 12913 | Title: web documents structures as source for machine-understandable document
+ID: 12919 | Title: what we talk about when we talk about programs
+ID: 12921 | Title: reification and symbolization
+ID: 12922 | Title: toward an embodied-interaction design framework for mathematical concepts
+ID: 12924 | Title: developing enterprise architecture skills in hei's: a russian survey
+ID: 12925 | Title: semantic representation of context models: a framework for analyzing and understanding
+ID: 12926 | Title: knowledge management and collective intelligence through web tools
+ID: 12927 | Title: language teaching in a mixed reality games environment
+ID: 12928 | Title: sbi: a semantic framework to support business intelligence
+ID: 12929 | Title: document annotation tools: annotation classification mechanisms
+ID: 12930 | Title: implementing a data infrastructure for a pharmaceutical community
+ID: 12931 | Title: a framework for games literacy and understanding games
+ID: 12933 | Title: employing linked data and dialogue for modelling cultural awareness of a user
+ID: 12934 | Title: towards an autonomous agent that provides automated feedback on students' negotiation skills
+ID: 12935 | Title: toward a framework for smart city strategies design
+ID: 12936 | Title: capturing expert knowledge for building enterprise sme knowledge graphs
+ID: 12937 | Title: the impact of the digital interaction network on the future professionals behavior
+ID: 12938 | Title: skills matter: modeling the relationship between decision making processes and collaborative problem-solving skills during hidden profile tasks
+ID: 12940 | Title: integrating fate/critical data studies into data science curricula: where are we going and how do we get there?
+ID: 12941 | Title: querying semantic trajectory episodes
+ID: 12942 | Title: a comprehensive approach towards the structural description of business models
+ID: 12943 | Title: constructing expert profiles over time for skills management and expert finding
+ID: 12944 | Title: methodology for improvement in energy efficiency training programs in professional environments
+ID: 12945 | Title: research on strategies of improving professional development of teachers in mooc era
+ID: 12946 | Title: toward a common semantics between media and languages
+ID: 12947 | Title: towards a reference software architecture for human-ai teaming in smart manufacturing
+ID: 12948 | Title: promoting children's critical thinking towards robotics through robot deception
+ID: 12949 | Title: stops: a graph-based study planning and curriculum development tool
+ID: 12950 | Title: a common terminology for software risk management
+ID: 12952 | Title: acquiring ethical communicative tools for an online ethics training
+ID: 12953 | Title: towards an approach for formalizing the supply chain operations
+ID: 12954 | Title: interrelations between art, science and research
+ID: 12955 | Title: third international workshop on knowledge-oriented product line engineering (kople 2012)
+ID: 12956 | Title: end-user training methods: what we know, need to know
+ID: 12957 | Title: anger and aggressive behavior in agent simulation
+ID: 12958 | Title: towards collaboration translucence: giving meaning to multimodal group data
+ID: 12959 | Title: a data management platform for taxi trajectory-based tourist behavior analysis
+ID: 12960 | Title: knowledge sharing: an index of terminological specificity
+ID: 12961 | Title: positioning for conceptual development using latent semantic analysis
+ID: 12962 | Title: domain specific knowledge graphs as a service to the public: powering social-impact funding in the us
+ID: 12963 | Title: a smart dialogue-competent monitoring framework supporting people in rehabilitation
+ID: 12964 | Title: context management in mobile environments: a semantic approach
+ID: 12965 | Title: assessing the impact of automated suggestions on decision making: domain experts mediate model errors but take less initiative
+ID: 12966 | Title: question answering over pattern-based user models
+ID: 12967 | Title: acktus: a platform for developing personalized support systems in the health domain
+ID: 12968 | Title: humans: a human models based artificial environments software platform
+ID: 12969 | Title: towards a paradigmatic shift in is: designing for social practice
+ID: 12970 | Title: a multidisciplinary survey and framework for design and evaluation of explainable ai systems
+ID: 12971 | Title: enabling smart collaboration with smart university services
+ID: 12972 | Title: epistemological foundations for cscl: a comparison of three models of innovative knowledge communities
+ID: 12973 | Title: towards an integrated retrieval system to semantically match cvs, job descriptions and curricula
+ID: 12974 | Title: "demand-driven data provisioning in data lakes: barents&nbsp;—&nbsp;a tailorable data preparation zone"
+ID: 12975 | Title: an optimal approach for extraction of web contents using semantic web framework
+ID: 12976 | Title: knowledge will propel machine understanding of content: extrapolating from current examples
+ID: 12977 | Title: creating a knowledge graph for ireland’s lost history: knowledge engineering and curation in the beyond 2022 project
+ID: 12978 | Title: towards semantic management of on-device applications in industrial iot
+ID: 12979 | Title: a framework-based approach for the integration of web-based information systems on the semantic web
+ID: 12980 | Title: towards flexible authoring and personalization of virtual reality applications for training
+ID: 12981 | Title: the purpose of play: how hci games research fails neurodivergent populations
+ID: 12982 | Title: usage contexts for object similarity: exploratory investigations
+ID: 12983 | Title: teaching agile validation of data models
+ID: 12984 | Title: algorithmic unfairness through the lens of eu non-discrimination law: or why the law is not a decision tree
+ID: 12985 | Title: safeguarding and accessing drama as intangible cultural heritage
+ID: 12986 | Title: aligning knowledge development between innovation-driven context and knowledge organization systems
+ID: 12987 | Title: sgats: semantic graph-based automatic text summarization from hindi text documents
+ID: 12988 | Title: semantic annotation of heterogeneous data sources: towards an integrated information framework for service technicians
+ID: 12989 | Title: big data in large scale intelligent smart city installations
+ID: 12990 | Title: semantic agent system for automatic mobilization of distributed and heterogeneous resources
+ID: 12991 | Title: wikipedia edit-a-thons as sites of public pedagogy
+ID: 12992 | Title: assistance- and knowledge-services for smart production
+ID: 12993 | Title: an architecture smell knowledge base for managing architecture technical debt
+ID: 12994 | Title: sea: segment-enrich-annotate paradigm for adapting dialog-based content for improved accessibility
+ID: 12995 | Title: event frame extraction based on a gene regulation corpus
+ID: 12996 | Title: knowledge-driven unsupervised skills extraction for graph-based talent matching
+ID: 12997 | Title: on the congruence between online social content and future it skill demand
+ID: 12998 | Title: human tutorial instruction in the raw
+ID: 12999 | Title: design of an analytic centric ms degree in information sciences and technologies
+ID: 13000 | Title: designing for knowledge maturing: from knowledge-driven software to supporting the facilitation of knowledge development
+ID: 13001 | Title: legal documents categorization by compression
+ID: 13002 | Title: towards deeper understanding and personalisation in call
+ID: 13003 | Title: contributions to a theoretical framework for cscl
+ID: 13004 | Title: reframing the role of novelty within social hri: from noise to information
+ID: 13005 | Title: performing design analysis: game design creativity and the theatre of the impressed
+ID: 13006 | Title: a multilingual neural coaching model with enhanced long-term dialogue structure
+ID: 13007 | Title: an exhaustive literature review of hadith text mining
+ID: 13008 | Title: estimating productivity in a scrum team: a multi-agent simulation
+ID: 13009 | Title: a language for end-user web augmentation: caring for producers and consumers alike
+ID: 13010 | Title: metrics for co-evolving autonomous systems
+ID: 13011 | Title: a distributed model for digital personal environments management
+ID: 13012 | Title: food for advanced computational thinking: critical and creative approaches to technology at te kura taurua manurewa
+ID: 13013 | Title: of catwalk technologies and boundary creatures
+ID: 13015 | Title: identity claims that underlie ethical awareness and action
+ID: 13016 | Title: a theoretical inquiry into the role of enaction in cybertherapy
+ID: 13017 | Title: personalized activity based elearning
+ID: 13018 | Title: performance evaluation of robotic knowledge representation (perk)
+ID: 13019 | Title: the pragmatic web: some key issues
+ID: 13020 | Title: metacogs: mitigating executive dysfunction via agent-based modeling for metacognitive strategy development
+ID: 13021 | Title: location-based games for cultural heritage: applying the design thinking process
+ID: 13022 | Title: problematising identity, positionality, and adequacy in hci4d fieldwork: a reflection
+ID: 13023 | Title: overview on collaboration and control of swarm robotics
+ID: 13024 | Title: application of text analytics in public service co-creation: literature review and research framework
+ID: 13025 | Title: digital heritage as a scholarly field—topics, researchers, and perspectives from a bibliometric point of view
+ID: 13026 | Title: designing manipulative tools for creative multi and cross-cultural storytelling
+ID: 13027 | Title: a methodology for exploring students' experiences and interaction with large-scale software through role-play and phenomenography
+ID: 13028 | Title: scrabble: transferrable semi-automated semantic metadata normalization using intermediate representation
+ID: 13029 | Title: en route to a better integration and evaluation of social capacities in vocal artificial agents
+ID: 13030 | Title: dynamic hypertext generation for reusing open corpus content
+ID: 13031 | Title: shelfhelp: empowering humans to perform vision-independent manipulation tasks with a socially assistive robotic cane
+ID: 13032 | Title: towards building a global oracle: a physical mashup using artificial intelligence technology
+ID: 13033 | Title: towards electronic health record support for collaborative processes
+ID: 13034 | Title: linguistic information extraction for job ads (sire project)
+ID: 13035 | Title: distributed collective practices in collaborative music performance
+ID: 13036 | Title: bio-geometry: challenges, approaches, and future opportunities in proteomics and drug discovery
+ID: 13037 | Title: a knowledge management architecture for digital cultural heritage
+ID: 13038 | Title: jointly modeling label and feature heterogeneity in medical informatics
+ID: 13039 | Title: interactive drawing tools to support modeling of dynamic systems
+ID: 13040 | Title: filtering graduate courses based on linkedin profiles
+ID: 13041 | Title: concept and relation extraction in the finance domain
+ID: 13042 | Title: the harmonic memory: a knowledge graph of harmonic patterns as a trustworthy framework for computational creativity
+ID: 13043 | Title: expanding the locus of control: design of a mobile quantified self-tracking application for whiplash patients
+ID: 13044 | Title: revolutionizing aerospace and defense: the impact of ai and robotics on modern warfare
+ID: 13045 | Title: producing competent hpc graduates
+ID: 13046 | Title: disentangling participatory ict design in socioeconomic development
+ID: 13047 | Title: towards a meta-modeling approach for social business process requirements capture
+ID: 13048 | Title: knowletracker: a semantic service-oriented system for enterprise campaign management
+ID: 13049 | Title: peta: a pedagogical embodied teaching agent
+ID: 13050 | Title: towards a body of knowledge for model-based software engineering
+ID: 13051 | Title: towards a roadmap on software engineering for responsible ai
+ID: 13052 | Title: voice in human–agent interaction: a survey
+ID: 13053 | Title: """was that successful?"" on integrating proactive meta-dialogue in a diy-assistant using multimodal cues"
+ID: 13054 | Title: empirical analysis of bias in voice-based personal assistants
+ID: 13055 | Title: theoretical and practical thoughts on the interplay of patterns and creativity
+ID: 13056 | Title: formulation and verification of the body of knowledge of new discipline using wikibok
+ID: 13057 | Title: context based adaptation of semantic rules in smart buildings
+ID: 13058 | Title: does knowledge management matter? the empirical evidence from market-based valuation
+ID: 13059 | Title: patterns for managing an escalated issue
+ID: 13060 | Title: a comparison of several key information visualization systems for secondary use of electronic health record content
+ID: 13061 | Title: identifying risks for cross-disciplinary higher degree research students
+ID: 13062 | Title: knowledge graph based recommender system for an academic domain – a proposal
+ID: 13063 | Title: a (very) brief introduction to fluid construction grammar
+ID: 13064 | Title: automated security test generation for mqtt using attack patterns
+ID: 13065 | Title: a semantic policy sharing and adaptation infrastructure for pervasive communities
+ID: 13066 | Title: cat: a context-aware trust model for open and dynamic systems
+ID: 13067 | Title: a dialog about the special issues on theory
+ID: 13068 | Title: ways of thinking in informatics
+ID: 13069 | Title: using factors to predict and analyze landlord-tenant decisions to increase access to justice
+ID: 13070 | Title: "erp systems in smes between a choice &amp; an obligation"
+ID: 13071 | Title: semantic portals in biomedicine: case study
+ID: 13072 | Title: stress management training using biofeedback guided by social agents
+ID: 13073 | Title: towards a conversational agent architecture to favor knowledge discovery in serious games
+ID: 13074 | Title: establishing government chief information officer systems: readiness assessment
+ID: 13075 | Title: metaphors in voice user interfaces: a slippery fish
+ID: 13076 | Title: designing for knowledge construction to facilitate the uptake of open science: laying out the design space
+ID: 13077 | Title: the last decade of hci research on children and voice-based conversational agents
+ID: 13078 | Title: gecoagent: a conversational agent for empowering genomic data extraction and analysis
+ID: 13079 | Title: psychometrics in behavioral software engineering: a methodological introduction with guidelines
+ID: 13080 | Title: remote work in public sector organisations: employees’ experiences in a pandemic context
+ID: 13081 | Title: simulation trust and the internet of things
+ID: 13082 | Title: co-performance: conceptualizing the role of artificial agency in the design of everyday life
+ID: 13083 | Title: modern information technologies as a tool for research and presentation of narrative: possible ways of application in historical science
+ID: 13084 | Title: psychological contract in the information systems profession
+ID: 13085 | Title: stereotypical trust and bias in dynamic multiagent systems
+ID: 13086 | Title: dynamic and stabilizing forces in knowledge organization systems for business ecosystems
+ID: 13087 | Title: collaborative framework for supporting indigenous knowledge management
+ID: 13088 | Title: blockchain and beyond: understanding blockchains through prototypes and public engagement
+ID: 13089 | Title: from coded bias to existential threat: expert frames and the epistemic politics of ai governance
+ID: 13090 | Title: on using artificial intelligence in the search of the best professional resumes
+ID: 13091 | Title: expert locator system for finding co-authors using snowball network method: a case study of fasilkom ui lecturers
+ID: 13092 | Title: lesslex: linking multilingual embeddings to sense representations of lexical items
+ID: 13093 | Title: ivolunteer: a digital ecosystem for life-long volunteering
+ID: 13094 | Title: reformulating clancey's generic tasks for bridging both sides of dual reality
+ID: 13095 | Title: development of an expert system for personalized crop planning
+ID: 13096 | Title: picturing what others know: towards a dashboard for interdisciplinarity
+ID: 13097 | Title: dynamic multi-component based activity detection and recognition within smart homes
+ID: 13098 | Title: modeling knowledge: an open models approach
+ID: 13099 | Title: "sustaining the growth and vitality of the m&amp;s discipline"
+ID: 13100 | Title: a fluid knowledge representation for understanding and generating creative metaphors
+ID: 13101 | Title: a modeling approach for integration and contextualization of simulation-based digital services in iiot
+ID: 13102 | Title: exp\'{e}rience de transfert de savoirs et de technologies issus de la recherche et de l'industrie aux \'{e}tudiants d'une formation en ihm
+ID: 13103 | Title: ethics: what is the research scenario in the brazilian symposium sbqs?
+ID: 13104 | Title: why do i have to take over control? evaluating safe handovers with advance notice and explanations in had
+ID: 13105 | Title: decide or delegate: how script knowledge based conversational assistants should act in inconclusive situations
+ID: 13106 | Title: apport de la th\'{e}orie de l'activit\'{e} et des outils collaboratifs \`{a} la gestion des connaissances
+ID: 13107 | Title: towards a theoretical approach for analysing music recommender systems as sociotechnical cultural intermediaries
+ID: 13108 | Title: automanner: an automated interface for making public speakers aware of their mannerisms
+ID: 13109 | Title: social deliberation for organizations
+ID: 13110 | Title: neither playing nor gaming: pottering in games
+ID: 13111 | Title: using xml for cloud specification and xquery for service discovery
+ID: 13112 | Title: turning keywords into uris: simplified user interfaces for exploring linked data
+ID: 13113 | Title: modeling wireless sensor networks based context-aware emergency coordination systems
+ID: 13114 | Title: information architects: what they do and how to become one
+ID: 13115 | Title: slicepedia: providing customized reuse of open-web resources for adaptive hypermedia
+ID: 13116 | Title: aid to regional development agencies: finding and matching research funding opportunities
+ID: 13117 | Title: towards context-aware semantic web service discovery through conceptual situation spaces
+ID: 13118 | Title: from inanimate object to agent: impact of pre-beginnings on the emergence of greetings with a robot
+ID: 13119 | Title: can conversational agents change the way children talk to people?
+ID: 13120 | Title: evaluating the promise of human-algorithm collaborations in everyday work practices
+ID: 13121 | Title: expanding and refining design and criticality in hci
+ID: 13122 | Title: demand predictability evaluation for supply chain processes using semantic web technologies use case
+ID: 13123 | Title: user-based adaptive software development for gamified systems
+ID: 13124 | Title: avoiding the abject and seeking the script: perceived mind, morality, and trust in a persuasive social robot
+ID: 13125 | Title: emergence as a feature of practice-based design research
+ID: 13126 | Title: information retrieval and deduplication for tourism recommender sightsplanner
+ID: 13127 | Title: a semantic web architecture for advocate agents to determine preferences and facilitate decision making
+ID: 13128 | Title: design metaphors for understanding user expectations of socially interactive robot embodiments
+ID: 13129 | Title: how engineers’ imaginaries of healthcare shape design and user engagement: a case study of a robotics initiative for geriatric healthcare ai applications
+ID: 13130 | Title: contextualising goal setting for behaviour change – from baby steps to value directions
+ID: 13131 | Title: multimedia and medicine: teammates for better disease detection and survival
+ID: 13132 | Title: multimodal child-robot interaction: building social bonds
+ID: 13133 | Title: route reasoning-based mobility modeling and simulation for street fight using devs
+ID: 13134 | Title: a reputation-based framework for honest provenance reporting
+ID: 13135 | Title: an agile new research framework for hybrid human-ai teaming: trust, transparency, and transferability
+ID: 13136 | Title: configuring patterns and pattern languages for systemic inquiry and design
+ID: 13137 | Title: systematic approach for mapping software development methods to the essence framework
+ID: 13138 | Title: a linguistic analysis of group support systems interactions for uncovering social realities of organizations
+ID: 13139 | Title: bilingual lexicon extraction from comparable corpora using in-domain terms
+ID: 13140 | Title: intelligent agents for traffic simulation
+ID: 13141 | Title: working for the invisible machines or pumping information into an empty void? an exploration of wikidata contributors' motivations
+ID: 13142 | Title: evaluation framework for search methods focused on dataset findability in open data catalogs
+ID: 13143 | Title: criteria catalogue for collaborative environments
+ID: 13144 | Title: new technology and the post-human self: rethinking appropriation and resistance
+ID: 13145 | Title: computer-supported assessment for tailoring assistive technology
+ID: 13146 | Title: geolinked open data for the municipality of catania
+ID: 13147 | Title: simplifying complexity: modeling the process of collaboration between artists and scientists
+ID: 13148 | Title: knowledge compilation for automated team composition exploiting standard sql
+ID: 13149 | Title: modeling task experience in user assistance systems
+ID: 13150 | Title: finding informative commonalities in concept collections
+ID: 13151 | Title: knowledge-based risk management: a systematic literature review
+ID: 13152 | Title: enslaved to the trapped data: a cognitive work analysis of medical systematic reviews
+ID: 13153 | Title: improving accuracy of identifying clinical concepts in noisy unstructured clinical notes using existing internal redundancy
+ID: 13154 | Title: accountable bench-to-bedside data-sharing mechanism for researchers
+ID: 13155 | Title: “we try to empower them�? - exploring future technologies to support migrant jobseekers
+ID: 13156 | Title: have we taken on too much?: a critical review of the sustainable hci landscape
+ID: 13157 | Title: hierarchical physician recommendation via diversity-enhanced matrix factorization
+ID: 13158 | Title: the stereotype content model applied to human-robot interactions in groups
+ID: 13159 | Title: factors influencing expatriate academics' knowledge sharing: a framework
+ID: 13160 | Title: mining service integration opportunities towards joined-up government
+ID: 13161 | Title: modelling of a fortiori reasoning
+ID: 13162 | Title: opportunities for knowledge management tools in clinical genetic services
+ID: 13163 | Title: the role of icts on enhancing collaborative capital in developing economies: a case of smes and non-state actors in tanzania
+ID: 13164 | Title: using narrative functions as a heuristic for relevance in story understanding
+ID: 13165 | Title: 100 million hours of audiovisual content: digital preservation and access in the prestoprime project
+ID: 13166 | Title: co-discovering common ground in a collaborative community: the boostinno participatory collaboration mapping case
+ID: 13167 | Title: an embodied approach for evolving robust visual classifiers
+ID: 13168 | Title: using dynamic knowledge hypergraphs toward proactive alops through digital twins
+ID: 13169 | Title: designing everyday conversational agents for managing health and wellness: a study of alexa skills reviews
+ID: 13170 | Title: combining memory and emotion with dialog on social companion: a review
+ID: 13171 | Title: "what is ""critical"" about critical design?"
+ID: 13172 | Title: the mocking gaze: the social organization of kinect use
+ID: 13173 | Title: therapy: location-aware assessment and tasks
+ID: 13174 | Title: improving performance, perceived usability, and aesthetics with culturally adaptive user interfaces
+ID: 13175 | Title: towards knowledge assisted agile requirements evolution
+ID: 13176 | Title: exploiting information context to improve productivity by modeling the domain specific tasks of the users
+ID: 13177 | Title: contact zones: designing for more-than-human food relations
+ID: 13178 | Title: big data platforms and tools for data analytics in the data science engineering curriculum
+ID: 13179 | Title: hacking culture, not devices: access and recognition in feminist hackerspaces
+ID: 13180 | Title: decolonizing e-government benchmarking
+ID: 13181 | Title: brain-computer integration: a framework for the design of brain-computer interfaces from an integrations perspective
+ID: 13182 | Title: a qualitative difference: integrating qualitative data into humanitarian response operations
+ID: 13183 | Title: rethinking the role of ai with physicians in oncology: revealing perspectives from clinical and research workflows
+ID: 13184 | Title: supervising multiple operating rooms using a head-worn display: a longitudinal evaluation of the experience of supervising anesthesiologists and their co-workers
+ID: 13185 | Title: transparency, fairness, and coping: how players experience moderation in multiplayer online games
+ID: 13186 | Title: is this ai trained on credible data? the effects of labeling quality and performance bias on user trust
+ID: 13187 | Title: how does hci understand human agency and autonomy?
+ID: 13188 | Title: research and application of digital design of nanjing ming city wall“meridian gate�?
+ID: 13189 | Title: motion and meaning: data-driven analyses of the relationship between gesture and communicative semantics
+ID: 13190 | Title: melanee and dlm: a contribution to the multi collaborative comparison challenge
+ID: 13191 | Title: how shortening or lengthening design processes configure decision making
+ID: 13192 | Title: accessibility in software practice: a practitioner’s perspective
+ID: 13193 | Title: acordar: a test collection for ad hoc content-based (rdf) dataset retrieval
+ID: 13194 | Title: german ai start-ups and “ai ethics�?: using a social practice lens for assessing and implementing socio-technical innovation
+ID: 13195 | Title: capable but amoral? comparing ai and human expert collaboration in ethical decision making
+ID: 13196 | Title: “i didn’t catch that, but i’ll try my best�?: anticipatory error handling in a voice controlled game
+ID: 13197 | Title: disinformation as infrastructure: making and maintaining the qanon conspiracy on italian digital media
+ID: 13198 | Title: supporting people with autism spectrum disorders in the exploration of pois: an inclusive recommender system
+ID: 13199 | Title: investigating the potential impact of values on requirements and software engineering
+ID: 13200 | Title: """be gay, do crimes"": the co-production and activist potential of contemporary fanzines"
+ID: 13201 | Title: the role of partial automation in increasing the accessibility of digital games
+ID: 13202 | Title: the agile success model: a mixed-methods study of a large-scale agile transformation
+ID: 13203 | Title: legally enforceable smart-contract languages: a systematic literature review
+ID: 13204 | Title: review of human decision-making during computer security incident analysis
+ID: 13205 | Title: algorithmic impact assessments and accountability: the co-construction of impacts
+ID: 13206 | Title: what's next in blockchain research? - an identification of key topics using a multidisciplinary perspective
+ID: 13207 | Title: evaluating and comparing skill chains and rating systems for dynamic difficulty adjustment
+ID: 13208 | Title: physio-stacks: supporting communication with ourselves and others via tangible, modular physiological devices
+ID: 13209 | Title: the information resilience framework: vulnerabilities, capabilities, and requirements
+ID: 13210 | Title: decolonizing tactics as collective resilience: identity work of aapi communities on reddit
+ID: 13211 | Title: what a driver wants: user preferences in semi-autonomous vehicle decision-making
+ID: 13212 | Title: the semantic tagging model of chinese question sentence chunk based on description logics
+ID: 13213 | Title: 'routine infrastructuring' as 'building everyday resilience with technology': when disruption becomes ordinary
+ID: 13214 | Title: the power of interpretation: qualitative methods in cybersecurity research
+ID: 13215 | Title: ergonomics for the design of multimodal interfaces
+ID: 13216 | Title: knowledge transfer, sharing, and management system based on causality for requirements change management
+ID: 13217 | Title: mediating open data consumption - identifying story patterns for linked open statistical data
+ID: 13218 | Title: evaluating quality in use of corporate web sites: an empirical investigation
+ID: 13219 | Title: project management practices as a subject of research for cscw: status and future opportunities
+ID: 13220 | Title: identifying patterns in idc research: technologies for improving children's well-being connected to overweight issues
+ID: 13221 | Title: vdml4rs: a tool for reputation systems modeling and design
+ID: 13222 | Title: integration of brainstorming platform in a system of information systems
+ID: 13223 | Title: knowledge profiles of employees
+ID: 13224 | Title: collective intelligence approach for free software adoption by municipalities
+ID: 13225 | Title: lost in persuasion: a multidisciplinary approach for developing usable, effective, and reproducible persuasive technology for health promotion
+ID: 13226 | Title: clef 15th birthday: past, present, and future
+ID: 13227 | Title: billions of interaction designers
+ID: 13228 | Title: creative participation and mobile ecologies among resource-constrained aspirant designers in cape town, south africa
+ID: 13229 | Title: digital humanities: crafts and occupations
+ID: 13230 | Title: science 2.0 supported by open access repositories and open linked data
+ID: 13231 | Title: organizational social structures for software engineering
+ID: 13232 | Title: estimating content concreteness for finding comprehensible documents
+ID: 13233 | Title: defense and security applications of modeling and simulation - grand challenges and current efforts
+ID: 13234 | Title: the human touch: participatory practice and the role of facilitation in designing with communities
+ID: 13235 | Title: impact of human operators on communication network dependability
+ID: 13236 | Title: wicked games: on the design of ethical gameplay
+ID: 13237 | Title: "new m&amp;s challenges derived from the nato research &amp; technology organization (rto) systems analysis studies (sas-071) task group on analytical tools for irregular warfare"
+ID: 13238 | Title: active artifacts as bridges between context and community knowledge sources
+ID: 13239 | Title: software maturity: design as dark art
+ID: 13240 | Title: a model for strengthening the software engineering research capacity
+ID: 13241 | Title: knowledge graph construction with a fa\c{c}ade: a unified method to access heterogeneous data sources on the web
+ID: 13242 | Title: data is about detail: an empirical investigation for software systems with nlp at core
+ID: 13243 | Title: kurt: a household assistance robot capable of proactive dialogue
+ID: 13244 | Title: 
+ID: 13245 | Title: 
+ID: 13246 | Title: extending linked usdl by trust assertion
+ID: 13247 | Title: measuring motivations of crowdworkers: the multidimensional crowdworker motivation scale
+ID: 13248 | Title: conceptual architecture of gate big data platform
+ID: 13249 | Title: living without a mobile phone: an autoethnography
+ID: 13250 | Title: empowering end users to customize their smart environments: model, composition paradigms, and domain-specific tools
+ID: 13251 | Title: doing sociomateriality research in information systems
+ID: 13252 | Title: personality, motivations, and information quality: a comparative study across games for human computation
+ID: 13253 | Title: a retrospective analysis of sac requirements: engineering track
+ID: 13254 | Title: bridge the terminology gap between recruiters and candidates: a multilingual skills base built from social media and linked data
+ID: 13255 | Title: exploring chaotic performance in projects and its relationship with knowledge creation process
+ID: 13256 | Title: creativity support to improve health-and-safety in manu-facturing plants: demonstrating everyday creativity
+ID: 13257 | Title: immodest proposals: research through design and knowledge
+ID: 13258 | Title: exploring digital environments for research in philosophy: metaphorical models of sustainability
+ID: 13259 | Title: decision making support in cmmi process areas using multiparadigm simulation modeling
+ID: 13260 | Title: modeling play: re-casting expertise in mmogs
+ID: 13261 | Title: modeling play: re-casting expertise in mmogs
+ID: 13262 | Title: activity-centric support for weakly-structured business processes
+ID: 13263 | Title: designing judicious interactions for cognitive assistance: the acts of assistance approach
+ID: 13264 | Title: creating human-machine synergy in negotiation support systems: towards the pocket negotiator
+ID: 13265 | Title: um prospecto de sistemas colaborativos: modelos e frameworks
+ID: 13266 | Title: the establishment and research of an evaluation model based on network analytic hierarchy process
+ID: 13267 | Title: should do, can do, can know: sustainability and other reflections on one hundred and one interaction design projects
+ID: 13268 | Title: ressources de connaissances dans les ateliers de fabrication: objectifs et d\'{e}fis: knowledge resources in fabrication workshops: objectives and challenges
+ID: 13269 | Title: report on the quantum information access and retrieval theory winter school
+ID: 13270 | Title: designing alternative form-autocompletion tools to enhance privacy decision making and prevent unintended disclosure
+ID: 13271 | Title: query interface for smart city internet of things data marketplaces: a case study
+ID: 13272 | Title: a digital collaborative platform for the silver economy: functionalities required by stakeholders in a multinational baltic sea region project
+ID: 13273 | Title: the entoptic field camera as metaphor-driven research-through-design with ai technologies
+ID: 13274 | Title: para cima y pa’ abajo: building bridges between hci research in latin america and in the global north
+ID: 13275 | Title: embodied participation: (re)situating bodies in collaborative research
+ID: 13276 | Title: report on the workshop on personal knowledge graphs (pkg 2021) at akbc 2021
+ID: 13277 | Title: producing and consuming instructional material in manufacturing contexts: evaluation of an ar-based cyber-physical production system for supporting knowledge and expertise sharing
+ID: 13278 | Title: interrupting merit, subverting legibility: navigating caste in ‘casteless’ worlds of computing
+ID: 13279 | Title: informing age-appropriate ai: examining principles and practices of ai for children
+ID: 13280 | Title: “it’s kind of like code-switching�?: black older adults’ experiences with a voice assistant for health information seeking
+ID: 13281 | Title: artificial intelligence for synthetic biology
+ID: 13282 | Title: """i felt a little crazy following a 'doll'"": investigating real influence of virtual influencers on their followers"
+ID: 13283 | Title: towards building an interactive evaluation framework for decision-makers to manage large crowd
+ID: 13284 | Title: conceptualising sound-driven design: an exploratory discourse analysis
+ID: 13285 | Title: how design researchers interpret probes: understanding the critical intentions of a designerly approach to research
+ID: 13286 | Title: """am i doing this all wrong?"": challenges and opportunities in family information management"
+ID: 13287 | Title: information extraction tasks in public administration domain: isida-t natural language processing system
+ID: 13288 | Title: index
+ID: 13289 | Title: privacy concerns of multimodal sensor systems
+ID: 13290 | Title: commercialization of multimodal systems
+ID: 13291 | Title: multimodal dialogue processing for machine translation
+ID: 13292 | Title: embedded multimodal interfaces in robotics: applications, future trends, and societal implications
+ID: 13293 | Title: automotive multimodal human-machine interface
+ID: 13294 | Title: medical and health systems
+ID: 13295 | Title: multimodal databases
+ID: 13296 | Title: standardized representations and markup languages for multimodal interaction
+ID: 13297 | Title: early integration for movement modeling in latent spaces
+ID: 13298 | Title: nonverbal behavior in multimodal performances
+ID: 13299 | Title: challenge discussion: advancing multimodal dialogue
+ID: 13300 | Title: software platforms and toolkits for building multimodal systems and applications
+ID: 13301 | Title: situated interaction
+ID: 13302 | Title: multimodal conversational interaction with robots
+ID: 13303 | Title: multimodal integration for interactive conversational systems
+ID: 13304 | Title: introduction: toward the design, construction, and deployment of multimodal-multisensor interfaces
+ID: 13305 | Title: preface
+ID: 13306 | Title: substantive legal software quality: a gathering storm?
+ID: 13307 | Title: the future of it work
+ID: 13308 | Title: a meta-model for information systems quality: a mixed study of the financial sector
+ID: 13309 | Title: is there an ai cosmology?
+ID: 13310 | Title: the agave platform: an open, science-as-a-service platform for digital science
+ID: 13311 | Title: values in repair
+ID: 13312 | Title: a comprehensive methodology for establishing and sustaining government chief information officer function
+ID: 13313 | Title: materials, materiality, and media
+ID: 13314 | Title: evaluation of a domain-aware approach to user model interoperability
+ID: 13315 | Title: what should i understand? the concept of shift of understanding, a quote-based analysis
+ID: 13316 | Title: an approach to designing interactive decision aid for cardiac patients
+ID: 13317 | Title: studying possibilities to use several experts' maps in the concept map based knowledge assessment system
+ID: 13318 | Title: explaining culture: an outline of a theory of socio-technical interactions
+ID: 13319 | Title: studying team shared mental models
+ID: 13320 | Title: challenges to e-government in africa south of sahara: a critical view, and provisional notes for a research agenda
+ID: 13321 | Title: comparison and justification of science and technology needs for modeling and simulation across the department of defense
+ID: 13322 | Title: tutorial and workshop on knowledge management in public administration
+ID: 13323 | Title: towards a common understanding of sustainable software development
+ID: 13324 | Title: overcoming legacy bias: re-designing gesture interactions in virtual reality with a san community in namibia
+ID: 13325 | Title: understanding barriers and design opportunities to improve healthcare and qol for older adults through voice assistants
+ID: 13326 | Title: design (in)actions
+ID: 13327 | Title: a content management perspective on fact-checking
+ID: 13328 | Title: deriving a unified fault taxonomy for event-based systems
+ID: 13329 | Title: xml security in healthcare web systems
+ID: 13330 | Title: the fire 2008 evaluation exercise
+ID: 13331 | Title: the infrastructure problem in hci
+ID: 13332 | Title: self-* e-nursing: a new idea in nursing
+ID: 13333 | Title: social contexts, agency, and conflicts: exploring critical aspects of design for future smart home technologies
+ID: 13334 | Title: mitigating matching scarcity in recruitment recommendation domains
+ID: 13335 | Title: summary of the 2019 international conference on software and system processes (icssp 2019)
+ID: 13336 | Title: acrobats and safety-nets: problematizing large-scale agile software development
+ID: 13337 | Title: fluid transformers and creative analogies: exploring large language models’ capacity for augmenting cross-domain analogical creativity
+ID: 13338 | Title: comparing norm-based and role-based strategies for robot communication of role-grounded moral norms
+ID: 13339 | Title: dealing with digital service closure
+ID: 13340 | Title: building ethical distributed teams through sustained attention to infrastructure
+ID: 13341 | Title: a conversational approach for modifying service mashups in iot environments
+ID: 13342 | Title: design and implementation of intelligent simulation drill system of power communication access network and transmission network
+ID: 13343 | Title: exploring machine-like behaviors for socially acceptable robot navigation in elevators
+ID: 13344 | Title: production-level artificial intelligence applications in semiconductor manufacturing
+ID: 13345 | Title: "from pattern language to pattern literacy: the biosemiotic underpinnings of ""patterning"" and ""languaging"""
+ID: 13346 | Title: the theory, practice, and ethical challenges of designing a diversity-aware platform for social relations
+ID: 13347 | Title: technology readiness revisited: a proposal for extending the scope of impact assessment of european public services
+ID: 13348 | Title: a declarative pcg tool for casual users
+ID: 13349 | Title: applying ability-based design principles to adaptive outdoor activities
+ID: 13350 | Title: should i agree? delegating consent decisions beyond the individual
+ID: 13351 | Title: an autonomy-perspective on the design of assistive technology experiences of people with multiple sclerosis
+ID: 13352 | Title: employee retention and turnover in global software development: comparing in-house offshoring and offshore outsourcing
+ID: 13353 | Title: concept analysis in programming language research: done well it is all right
+ID: 13354 | Title: "evaluation of programmable domestic eco-systems: ""living in it"" as an experimental method"
+ID: 13355 | Title: permaculture as a foundation for sustainable interaction design and ux
+ID: 13356 | Title: """interview with things"": a first-thing perspective to understand the scooter's everyday socio-material network in taiwan"
+ID: 13357 | Title: implicit communication in a joint action
+ID: 13358 | Title: """they're all going out to something weird"": workflow, legacy and metadata in the music production process"
+ID: 13359 | Title: migrating egovernment services in the cloud: a capability modelling approach
+ID: 13360 | Title: local villages in a globally connected structure: a case study of social enterprise media in the multinational workplace
+ID: 13361 | Title: a multimodal annotation schema for non-verbal affective analysis in the health-care domain
+ID: 13362 | Title: the visual thinking gallery: a five year retrospective
+ID: 13363 | Title: placing in age: transitioning to a new home in later life
+ID: 13364 | Title: structuring future social relations: the politics of care in participatory practice
+ID: 13365 | Title: providing recommendations for horizontal career change
+ID: 13366 | Title: design of knowledge management systems
+ID: 13367 | Title: trust and matching algorithms for selecting suitable agents
+ID: 13368 | Title: conceptualizing and advancing research networking systems
+ID: 13369 | Title: matchmaking in p2p e-marketplaces: soft constraints and compromise matching
+ID: 13370 | Title: of categorizers and describers: an evaluation of quantitative measures for tagging motivation
+ID: 13371 | Title: nonlinear news production and consumption: a collaborative approach
+ID: 13372 | Title: using nlg to help language-impaired users tell stories and participate in social dialogues
+ID: 13373 | Title: the dyonipos innovation framework: research and practice hand in hand
+ID: 13374 | Title: participation in design things
+ID: 13375 | Title: digital budgets for town administrations: participation, transparency and reverse process engineering
+ID: 13376 | Title: 
+ID: 13377 | Title: the importance of a comprehensive and integrative view of modeling and simulation
+ID: 13378 | Title: evaluating and integrating treebank parsers on a biomedical corpus
+ID: 13379 | Title: expert systems
+ID: 13380 | Title: beyond applications: interaction substrates and instruments
+ID: 13381 | Title: do bridges dream of water pollutants? towards dreamskg, a knowledge graph to make digital access for sustainable environmental assessment come true
+ID: 13382 | Title: felt ethics: cultivating ethical sensibility in design practice
+ID: 13383 | Title: evaluating pddl for programming production cells: a case study
+ID: 13384 | Title: interweave: presenting search suggestions in context scaffolds information search and synthesis
+ID: 13385 | Title: data smells: categories, causes and consequences, and detection of suspicious data in ai-based systems
+ID: 13386 | Title: tracking socio-economic activities in european countries with unconventional data
+ID: 13387 | Title: diversity by design? balancing the inclusion and protection of users in an online social platform
+ID: 13388 | Title: an agent organizational method for modeling the complexity of the design process
+ID: 13389 | Title: the intelligent agent nlp-based customer service system
+ID: 13390 | Title: heliport: a portable platform for {fair workflow | metadata | scientific project lifecycle} management and everything
+ID: 13391 | Title: task modelling for interactive system design: a survey of historical trends, gaps and future needs
+ID: 13392 | Title: cybersecurity standards in the context of operating system: practical aspects, analysis, and comparisons
+ID: 13393 | Title: embracing companion technologies
+ID: 13394 | Title: system of organizational terms as a theoretical foundation for team management automation
+ID: 13395 | Title: turker tales: integrating tangential play into crowd work
+ID: 13396 | Title: objects with intent: designing everyday things as collaborative partners
+ID: 13397 | Title: ocr-d: an end-to-end open source ocr framework for historical printed documents
+ID: 13398 | Title: why do you like to drive automated? a context-dependent analysis of highly automated driving to elaborate requirements for intelligent user interfaces
+ID: 13399 | Title: on the distinction between implicit and explicit ethical agency
+ID: 13400 | Title: software ecosystem platform for recommendation systems
+ID: 13401 | Title: metric-based evaluation of multiagent systems models
+ID: 13402 | Title: automated encoding of clinical guidelines into computer-interpretable format
+ID: 13403 | Title: compliance patterns: harnessing value modeling and legal interpretation to manage regulatory conversations
+ID: 13404 | Title: emergence of human language: a devs-based systems approach
+ID: 13405 | Title: exploiting the value of data through data value networks
+ID: 13406 | Title: a semantic-web-technology-based framework for supporting knowledge-driven digital forensics
+ID: 13407 | Title: from cybersecurity to collaborative resiliency
+ID: 13408 | Title: using hierarchical skills for optimized task assignment in knowledge-intensive crowdsourcing
+ID: 13409 | Title: guiding the selection of security patterns based on security requirements and pattern classification
+ID: 13410 | Title: 
+ID: 13411 | Title: 
+ID: 13412 | Title: visualizing city events on search engine: tword the search infrustration for smart city
+ID: 13413 | Title: on the discovery of declarative control flows for artful processes
+ID: 13414 | Title: a civilized cyberspace for geoprivacy
+ID: 13415 | Title: consenting agents: semi-autonomous interactions for ubiquitous consent
+ID: 13416 | Title: examining trust as key drivers in smart disclosure for sustainable consumption: the case of i-choose
+ID: 13417 | Title: ethnography of scaling, or, how to a fit a national research infrastructure in the room
+ID: 13418 | Title: the pragmatic web: addressing complex communication in public administration using tailored delivery
+ID: 13419 | Title: a comprehensive approach to trust management
+ID: 13420 | Title: indeterministic handling of uncertain decisions in deduplication
+ID: 13421 | Title: adaptive probabilistic fission for multimodal systems
+ID: 13422 | Title: a serious game for building a portuguese lexical-semantic network
+ID: 13423 | Title: user profile based activities in flexible processes
+ID: 13424 | Title: legacy job titles in it: the search for clarity
+ID: 13425 | Title: expert recommendation based on social drivers, social network analysis, and semantic data representation
+ID: 13426 | Title: context-aware and multilingual information extraction for a tourist recommender system
+ID: 13427 | Title: project management as a compass in complex decision making contexts: a viable systems approach
+ID: 13428 | Title: automatic mining of cognitive metadata using fuzzy inference
+ID: 13429 | Title: towards a feminist hci methodology: social science, feminism, and hci
+ID: 13430 | Title: taking advice from intelligent systems: the double-edged sword of explanations
+ID: 13431 | Title: value network analysis for the pragmatic web: a case of logistic innovation
+ID: 13432 | Title: analysis of structural relationships for hierarchical cluster labeling
+ID: 13433 | Title: arguments for an information-centric internetworking architecture
+ID: 13434 | Title: an agenda for the next generation gazetteer: geographic information contribution and retrieval
+ID: 13435 | Title: comparing chinese and german blogs
+ID: 13436 | Title: coordination support in multi-agent systems
+ID: 13437 | Title: towards a decision model based on trust and security risk management
+ID: 13438 | Title: towards user psychological profile
+ID: 13439 | Title: model-based ambient analysis of human task execution
+ID: 13440 | Title: an adaptive and distributed framework for advanced ir
+ID: 13441 | Title: the 100% solution: what is a user to do, and how are we helping?
+ID: 13442 | Title: trust-based enrollment in a group in a distributed setting
+ID: 13443 | Title: it takes (at least) two: the work to make romance work
+ID: 13444 | Title: tackling algorithmic disability discrimination in the hiring process: an ethical, legal and technical analysis
+ID: 13445 | Title: software and content design of a browser-based mobile 4d vr application to explore historical city architecture
+ID: 13446 | Title: a bert-based two-stage model for chinese chengyu recommendation
+ID: 13447 | Title: using job characteristics to inform interface design for industrial maintenance procedures
+ID: 13448 | Title: "speculative data work &amp; dashboards: designing alternative data visions"
+ID: 13449 | Title: joining together online: the trajectory of cscw scholarship on group formation
+ID: 13450 | Title: evaluating and informing the design of chatbots
+ID: 13451 | Title: the cendari infrastructure
+ID: 13452 | Title: a review of knowledge management and future research trend
+ID: 13453 | Title: medical specialists retrieval system using unified medical language system
+ID: 13454 | Title: the design of digital memorials: scaffolds for multicultural communication based on a semiotic analysis of tombs
+ID: 13455 | Title: analyzing and predicting task reminders
+ID: 13456 | Title: end-user development in ambient intelligence: a user study
+ID: 13457 | Title: a reference model for simulating agile processes
+ID: 13458 | Title: femwiki: crowdsourcing semantic taxonomy and wiki input todomain experts while keeping editorial control: mission possible!
+ID: 13459 | Title: on designing migrating agents: from autonomous virtual agents to intelligent robotic systems
+ID: 13460 | Title: fashion thinking: lessons from fashion and sustainable interaction design, concepts and issues
+ID: 13461 | Title: reasoning about uncertain information and conflict resolution through trust revision
+ID: 13462 | Title: digital ecosystems: challenges and prospects
+ID: 13463 | Title: semantic metadata in the news production process: achievements and challenges
+ID: 13464 | Title: integrating linked data into the content value chain: a review of news-related standards, methodologies and licensing requirements
+ID: 13465 | Title: theory lenses: deriving gameplay design patterns from theories
+ID: 13466 | Title: digital imagery as meaning and form in hci and design: an introduction to the visual thinking backpage gallery
+ID: 13467 | Title: types of shared services business models in public administration
+ID: 13468 | Title: a videosurveillance data browsing software architecture for forensics: from trajectories similarities to video fragments
+ID: 13469 | Title: talking npcs in a virtual game world
+ID: 13470 | Title: extracting formulaic and free text clinical research articles metadata using conditional random fields
+ID: 13471 | Title: """integrated"" and ""transcendent"" e-government: keys for analyzing organizational structure and governance"
+ID: 13472 | Title: argument reconstruction and socio-technical facilitation of large scale argumentation
+ID: 13473 | Title: the preservation, emulation, migration, and virtualization of live electronics for performing arts: an overview of musical and technical issues
+ID: 13474 | Title: group memory based on the task information
+ID: 13475 | Title: the tangible desktop: a multimodal approach to nonvisual computing
+ID: 13476 | Title: dice: a dataset of italian crime event news
+ID: 13477 | Title: viscounth: a large-scale multilingual visual question answering dataset for cultural heritage
+ID: 13478 | Title: towards a semantic approach for linked dataspace, model and data cards
+ID: 13479 | Title: c-suite leadership of digital government
+ID: 13480 | Title: consent verification monitoring
+ID: 13481 | Title: business insights using knowledge graphs by text analytics in dynamic environments
+ID: 13482 | Title: context injection in expert finding
+ID: 13483 | Title: world food atlas for food navigation
+ID: 13484 | Title: conceptualizing smart government: interrelations and reciprocities with smart city
+ID: 13485 | Title: the wind in our sails: developing a reusable and maintainable dutch maritime history knowledge graph
+ID: 13486 | Title: report on the third international workshop on semantic web meets health data management (swh 2020)
+ID: 13487 | Title: sociocultural information urban space in smart city context
+ID: 13488 | Title: knowledge translation
+ID: 13489 | Title: trusted ai and the contribution of trust modeling in multiagent systems
+ID: 13490 | Title: scaffolding rami4.0-exploration as design support
+ID: 13491 | Title: towards a domain-specific language for the renarration of web pages
+ID: 13492 | Title: more than a feeling: the miface framework for defining facial communication mappings
+ID: 13493 | Title: """i'm an addict"" and other sensemaking devices: a discourse analysis of self-reflections on lived experience of social media"
+ID: 13494 | Title: towards visualization recommendation systems
+ID: 13495 | Title: cyber physical systems based model-driven development for precision agriculture
+ID: 13496 | Title: curios: connecting community heritage through linked data
+ID: 13497 | Title: semantic work process analysis: a reflexive stakeholder articulation approach
+ID: 13498 | Title: midas: a design quality assessment method for industrial software
+ID: 13499 | Title: interacting with social networks of intelligent things and people in the world of gastronomy
+ID: 13500 | Title: the creation of a corpus of english metalanguage
+ID: 13501 | Title: the lived body in design: mapping the terrain
+ID: 13502 | Title: movieclouds: content-based overviews and exploratory browsing of movies
+ID: 13503 | Title: building a highly consumable semantic model for smarter cities
+ID: 13504 | Title: public process management: a method for introducing standard business reporting
+ID: 13505 | Title: computational linguistics in brazil: an overview
+ID: 13506 | Title: e-government informatics
+ID: 13507 | Title: virtual humans for assisted health care
+ID: 13508 | Title: cascaded e-government: toward building a multi-purpose and multi-layer data model for local e-government in palestine
+ID: 13509 | Title: leveraging semantic technologies for enterprise search
+ID: 13510 | Title: dodaf limitations and enhancements for the capability test methodology
+ID: 13511 | Title: towards a taxonomy of agents and multi-agent systems
+ID: 13512 | Title: using semantic authoring for blissymbols communication boards
+ID: 13513 | Title: do you mind? user perceptions of machine consciousness
+ID: 13514 | Title: accessibility and digital inclusion: utopia or a great challenge?
+ID: 13515 | Title: how are conceptual models used in industrial software development? a descriptive survey
+ID: 13516 | Title: dasish: an initiative for a european data humanities infrastructure
+ID: 13517 | Title: e-government: state and perspectives
+ID: 13518 | Title: an adaptative and compliant forensics admissibility metrics generation methodology
+ID: 13519 | Title: multiple-source data collection and processing into a graph database supporting cultural heritage applications
+ID: 13520 | Title: the impact of the digital humanities in the consistency of a digital warehouse: a triple play between researchers, information specialists and computer scientists
+ID: 13521 | Title: material speculation: actual artifacts for critical inquiry
+ID: 13522 | Title: design of knowledge management info-structures
+ID: 13523 | Title: advanced agent discovery services
+ID: 13524 | Title: e-research for linguists
+ID: 13525 | Title: understanding the capabilities and critical success factors in collaborative data sharing network: the case of dataone
+ID: 13526 | Title: computational linguistics for helping requirements elicitation: a dream about automated software development
+ID: 13527 | Title: a model of normative power
+ID: 13528 | Title: requirements-driven internetware services evaluation
+ID: 13529 | Title: intuitivit\'{e} et incorporation des interactions gestuelles chez les utilisateurs de jeux vid\'{e}o
+ID: 13530 | Title: the googleplex
+ID: 13531 | Title: scara3d: 3-dimensional hri integrated to a distributed control architecture for remote and cooperative actuation
+ID: 13532 | Title: organizing and managing personal electronic files: a mechanical engineer's perspective
+ID: 13533 | Title: better workflow modelling of production processes: re-engineering enterprise, resource and material planning in computational logistics
+ID: 13534 | Title: off-the-shelf digital tools as a resource to nurture the commons
+ID: 13535 | Title: philosophers living with the tilting bowl
+ID: 13536 | Title: being photo-visual in hci and design
+ID: 13537 | Title: social set analysis: four demonstrative case studies
+ID: 13538 | Title: cxt-cube: contextual text cube model and aggregation operator for text olap
+ID: 13539 | Title: analytics as heuristics: technical considerations for doc
+ID: 13540 | Title: synthesis of green is frameworks for achieving strong environmental sustainability in organisations
+ID: 13541 | Title: understanding agency in interaction design materials
+ID: 13542 | Title: socio-cognitive aspects of interoperability: understanding communication task environments among different organizations
+ID: 13543 | Title: communicating uncertainty information across conceptual boundaries
+ID: 13544 | Title: pattern-oriented knowledge model for architecture design
+ID: 23954 | Title: supervisor descriptions of veterinary student performance in the clinical workplace: a qualitative interview study
+ID: 23955 | Title: problematic of the assessment activity within adaptive e-learning systems
+ID: 23957 | Title: multimodal transduction and translanguaging in deaf pedagogy
+ID: 23960 | Title: a framework to assist in didactic planning at undergraduate level
+ID: 23961 | Title: the linguistically informed virtue-novice as precocious: a reply to stichter’s the skillfulness of virtue
+ID: 23968 | Title: the manipulation of algebraic expressions: deepening of a widespread difficulties and new characterizations
+ID: 23973 | Title: towards a common and semantic representation of e-portfolios
+ID: 23998 | Title: maps4learning: enacting geo-education to enhance student achievement
+ID: 24004 | Title: contesting our taken-for-granted understanding of student evaluation: insights from a team of institutional ethnographers
+ID: 24010 | Title: threshold capabilities: threshold concepts and knowledge capability linked through variation theory
+ID: 24018 | Title: exploring automated classification approaches to advance the assessment of collaborative problem solving skills
+ID: 24020 | Title: surgical portfolios: a systematic scoping review
+ID: 24031 | Title: enhancing the management performance of departmental heads in primary and secondary schools: par as a practice-enhancing process
+ID: 24035 | Title: 
+ID: 24036 | Title: mapss: an intelligent architecture for the pedagogical support
+ID: 24037 | Title: how surgeons conceptualize talent: a qualitative study using sport science as a lens
+ID: 24041 | Title: prescription writing through the lens of the threshold concept framework: a narrative review
+ID: 24042 | Title: why don't you tell me what i need to know? self-flipped classroom and students' personal epistemology
+ID: 24046 | Title: concept frame for curricular innovation in health care schools
+ID: 24050 | Title: knowledge graph based hard drive failure prediction
+ID: 24070 | Title: development of an intelligent surgical training system for thoracentesis
+ID: 24071 | Title: a semantically data-driven classification framework for energy consumption in buildings
+ID: 24073 | Title: 
+ID: 24076 | Title: a philosophical analysis of clinical decision making in nursing
+ID: 24077 | Title: organizational unlearning as changes in beliefs and routines in organizations
+ID: 24083 | Title: warning: a grade 7 student disrupts narrative boundaries
+ID: 24089 | Title: sex, love, and paternalism
+ID: 24090 | Title: epistemic disobedience and grief in academia
+ID: 24098 | Title: personnel performance assessment in information systems outsourcing environments
+ID: 24101 | Title: bayesianism for non-ideal agents
+ID: 24105 | Title: communicative-based curriculum innovations between theory and practice: implications for efl curriculum development and student cognitive and affective change
+ID: 24111 | Title: knowledge transfer as one of the factors of increasing university competitiveness
+ID: 24112 | Title: formation of professionalism of executives
+ID: 24113 | Title: dynamics and diversity in epistemic communities
+ID: 24116 | Title: a philosophical history of programmatic assessment : tracing shifting configurations
+ID: 24120 | Title: sinnott-armstrong's empirical challenge to moral intuitionism: a novel critique
+ID: 24121 | Title: researching primary teachers' professional agency : employing interactive ethnography to overcome reluctance to teach science
+ID: 24125 | Title: tapping the potential of sensemaking for performance management
+ID: 24129 | Title: construction of individual trajectories of training specialists in the field of information and communication technologies
+ID: 24130 | Title: epistemic configurations and holistic meaning of binomial distribution
+ID: 24135 | Title: regimes of autonomy
+ID: 24137 | Title: how social and semantic technologies can sustain employability through knowledge development and positive behavioral changes
+ID: 24141 | Title: peer assessment and groups formation in massive open online courses
+ID: 24146 | Title: friends or foes? a theoretical approach towards constructivism, realism and students’ well-being via academic literacy practices
+ID: 24151 | Title: teaching social science research methods to undergraduate medical students: the state of the art and opportunities for practice and curriculum development
+ID: 24155 | Title: o reordenamento do mundo do trabalho e a formação do trabalhador em face da pedagogia das competências: elementos para uma crítica ontológica
+ID: 24159 | Title: semantic web technology as a tool for integrating training and job market supply chains
+ID: 24169 | Title: intelligent technology for construction of tutoring integrated expert systems: new aspects
+ID: 24171 | Title: ovary transcriptome profiling via artificial intelligence reveals a transcriptomic fingerprint predicting egg quality in striped bass, morone saxatilis
+ID: 24175 | Title: spontaneous ethics in nurses’ willingness to work during a pandemic
+ID: 24180 | Title: new perspectives on teaching and working with languages in the digital era
+ID: 24183 | Title: in praise of young doctors
+ID: 24185 | Title: integration of social justice into the teaching of evaluation
+ID: 24192 | Title: what is intelligence for? a peircean pragmatist response to the knowing-how, knowing-that debate
+ID: 24195 | Title: a 32-year longitudinal study of child and adolescent pathways to well-being in adulthood
+ID: 24199 | Title: on discourse, communication, and (some) fundamental concepts in sla research
+ID: 24203 | Title: svårigheter i att definiera begreppet kompetens
+ID: 24204 | Title: a cloud-native web application for assisted metadata generation and retrieval: thespian-ner
+ID: 24205 | Title: sparse bayesian classification and feature selection for biological expression data with high correlations
+ID: 24207 | Title: a context-aware architecture for realizing business process adaptation strategies using fuzzy planning
+ID: 24208 | Title: oc-2-kb: integrating crowdsourcing into an obesity and cancer knowledge base curation system
+ID: 24212 | Title: "problematizing ""epistemicide"" in transnational curriculum knowledge production: china's suyang curriculum reform as an example"
+ID: 24214 | Title: the parallel goods of knowledge and achievement
+ID: 24215 | Title: why is generative grammar recursive?
+ID: 24219 | Title: the grid that bridges the gap
+ID: 24220 | Title: the assault on american excellence by anthony kronman (review)
+ID: 24221 | Title: cognitive analysis of pragmatic functions of discourse markers in spoken english in the context of computational intelligence
+ID: 24222 | Title: fundamentos teórico-metodológicos das diretrizes curriculares do ensino fundamental de criciúma/sc (2020): continuidade e ruptura
+ID: 24224 | Title: the assault on american excellence by anthony kronman (review)
+ID: 24227 | Title: strategic leadership for a zimbabwean university in turbulent times: literature analysis
+ID: 24228 | Title: a virtue reliabilist error-theory of defeat
+ID: 24229 | Title: autonomous digital twin of enterprise: method and toolset for knowledge-based multi-agent adaptive management of tasks and resources in real time
+ID: 24230 | Title: towards fair protocols and workflows: the openpredict use case
+ID: 24232 | Title: preparing for practice: how well are practitioners prepared for teamwork
+ID: 24235 | Title: epistemología de la integral como fundamento del cálculo integral
+ID: 24238 | Title: anti-essentialist culture conception for better intercultural language teaching in efl contexts
+ID: 24241 | Title: morality and interpretation: the principle of phronetic charity
+ID: 24242 | Title: development of knowledge base of intellectual system for support of formal and informal training of it staff
+ID: 24244 | Title: epistemic complexity of the mathematical object “integral�?
+ID: 24245 | Title: current trends on ict technologies for enterprise information systems
+ID: 24247 | Title: thresholds in a low-threshold setting: an empirical study of barriers in a centre for people with drug problems and mental health disorders
+ID: 24258 | Title: information literacy landscapes: an emerging picture
+ID: 24260 | Title: symbiotic allegory as innovative indigenous research methodology
+ID: 24261 | Title: debating humanity : towards a philosophical sociology
+ID: 24264 | Title: ensuring semantic annotation and retrieval within pervasive e-learning systems
+ID: 24268 | Title: 自己調整学習オントロジー�?�基�?��??e-portfolioシステム�?�設計
+ID: 24272 | Title: packaging design elements and consumers' decision to buy from the web: a cause and effect decision�?making model
+ID: 24273 | Title: estudio comparativo de la evaluación a través de ejercicios sobre texto y vídeo para la identificación de elementos de una investigación científica
+ID: 24274 | Title: knowledge, achievement, and manifestation
+ID: 24276 | Title: dignity, torture, and human rights
+ID: 24278 | Title: a quick guide for developing effective bioinformatics programming skills
+ID: 24280 | Title: intuitions in philosophical semantics
+ID: 24281 | Title: coaching psicoge�?nico: una posibilidad a la crisis en el enfoque psicoterape�?utico tradicional
+ID: 24283 | Title: meaning and formal semantics in generative grammar
+ID: 24285 | Title: probing pre- and in-service physics teachers’ knowledge using the double-slit thought experiment
+ID: 24286 | Title: using the e-portfolio to document and evaluate growth in reflective practice: the development and application of a conceptual framework
+ID: 24287 | Title: phenomenography’s contribution to organizational studies based on a practice perspective
+ID: 24288 | Title: the impossibility of a universal public service perspective
+ID: 24289 | Title: proceedings of the international association for development of the information society (iadis) international conference on e-learning (lisbon, portugal, july 20-22, 2017)
+ID: 24290 | Title: an approach for the personalization of exercises based on contextualized attention metadata and semantic web technologies
+ID: 24292 | Title: evolution and utilitarianism
+ID: 24294 | Title: a closer look at elementary school students' epistemic beliefs – latent profiles capturing concepts of knowledge and knowing in science
+ID: 24298 | Title: a virtual laboratory structure for developing programming labs
+ID: 24299 | Title: de-disciplining humanity: the humanities’ case for critical management literacy
+ID: 24304 | Title: proceedings of the international association for development of the information society (iadis) international conference on e-learning (las palmas de gran canaria, spain, july 21-24, 2015)
+ID: 24308 | Title: on the coevolution of basic arithmetic language and knowledge
+ID: 24310 | Title: development of a standardized curriculum for nursing informatics in korea
+ID: 24311 | Title: knowledge translation in everyday nursing from evidence-based to inquiry-based practice
+ID: 24312 | Title: the allochthon of misfit toys
+ID: 24317 | Title: automatic generation of assessment objects and remedial works for moocs
+ID: 24318 | Title: case-based analysis in user requirements modelling for knowledge construction
+ID: 24319 | Title: harm in the wild: facing non-human suffering in nature
+ID: 24321 | Title: extended cognition and robust virtue epistemology: response to vaesen
+ID: 24322 | Title: moral responsibility: justifying strawson and the excuse of peculiarly unfortunate formative circumstances
+ID: 24323 | Title: information support of design innovation activity of the technical university
+ID: 24324 | Title: current trends on ict technologies for enterprise information s²ystems
+ID: 24326 | Title: morality, impartiality and due partialities
+ID: 24331 | Title: situationism and confucian virtue ethics
+ID: 24332 | Title: ability of expert physicians to structure clinical guidelines: reality versus perception
+ID: 24335 | Title: intelligent visual reasoning tutor
+ID: 24337 | Title: nielsen's ‘befindlichkeit’ between (the hermeneutics of) ‘bildung’ and (the phenomenology of) music
+ID: 24339 | Title: univocal reasoning and inferential presuppositions
+ID: 24340 | Title: maths for medications: an analytical exemplar of the social organization of nurses' knowledge
+ID: 24341 | Title: 実践・教育複�?�型�?�調学習場�?�設計支�?��?��?��?��?�オントロジー工学的アプロー�?
+ID: 24342 | Title: photonics and optical informatics in europe: trends of 2003–2013
+ID: 24343 | Title: "what ""intuitions"" are linguistic evidence?"
+ID: 24344 | Title: photonics and optical informatics in europe: trends of 2003–2013
+ID: 24345 | Title: lexinfo: a declarative model for the lexicon-ontology interface
+ID: 24348 | Title: semantic processing of information resources of labour market
+ID: 24349 | Title: second language acquisition, we, and language as a complex adaptive system (cas)
+ID: 24351 | Title: devitt on the epistemic authority of linguistic intuitions
+ID: 24355 | Title: about the origins of the human ability to create constructs of reality
+ID: 24357 | Title: is there a right to hold a delusion? delusions as a challenge for human rights discussion
+ID: 24359 | Title: autonomous agency and normative implication
+ID: 24360 | Title: dialogic teaching and blind-spots : proposal of a teaching unit
+ID: 24362 | Title: effectiveness of a clinical decision support system for pointing device prescription
+ID: 24366 | Title: mutu pendidikan pada perguruan tinggi keagamaa: dari manajemen kelembagaan hingga konstruksi kurikulum interrelasi
+ID: 24369 | Title: managerial tools of academic knowledge formation process
+ID: 24370 | Title: acquisition of complex arithmetic skills and higher-order mathematics concepts
+ID: 24373 | Title: paauglių dvasinių vertybių internalizavimo pedagoginės problemos xxi amžiaus iššūkių kontekste
+ID: 24374 | Title: knowledge sources affecting decision-making among social and health care managers
+ID: 24379 | Title: what is english?
+ID: 24383 | Title: corporate talent detection and development
+ID: 24388 | Title: the integral university: holistic development of individuals, communities, organisations and societies
+ID: 24389 | Title: managerial tools of academic knowledge formation process
+ID: 24393 | Title: simulation, theory and collapse
+ID: 24395 | Title: on understanding the power of judgement in percutaneous coronary intervention
+ID: 24396 | Title: becoming the temporary surgeon: a grounded theory examination of anaesthetists performing emergency front of neck access in inter-disciplinary simulation-based training
+ID: 24398 | Title: personalized e-learning model: a systematic literature review
+ID: 24400 | Title: semantic-based skill management for automated task assignment and courseware composition
+ID: 24401 | Title: fundamentos teórico-metodológicos das diretrizes curriculares do ensino fundamental de criciúma/sc (2020): continuidade e ruptura
+ID: 24402 | Title: researching what we practice-the paradigm of systemic family research: part 2
+ID: 24403 | Title: a taxonomy for mechanical ventilation: 10 fundamental maxims
+ID: 24404 | Title: hume’s account of curiosity and motivation
+ID: 24405 | Title: correcting open-answer questionnaires through a bayesian-network model of peer-based assessment
+ID: 24408 | Title: towards semantic management of on-device applications in industrial iot
+ID: 24410 | Title: predicting embryonic aneuploidy rate in ivf patients using whole-exome sequencing
+ID: 24411 | Title: moving from physical literacy to co-existing physical literacies: what is the problem?
+ID: 24412 | Title: passion or people? social capital and career sustainability in arts management
+ID: 24414 | Title: case studies and use cases as means of effectively demonstrating value and engaging stakeholders
+ID: 24415 | Title: an application of the caritative caring approach - nursing students' experiences of practising caring and uncaring encounters by simulation at a clinical training centre
+ID: 24417 | Title: conductas transgresoras en el ámbito académico
+ID: 24418 | Title: collective emotional intelligence and group dynamics interplay: can it be tangible and measurable?
+ID: 24419 | Title: case studies and use cases as means of effectively demonstrating value and engaging stakeholders
+ID: 24423 | Title: toward a traceable, explainable, and fairjd/resume recommendation system
+ID: 24427 | Title: technology: a metaparadigm concept of nursing
+ID: 24428 | Title: a virtual laboratory structure for developing programming labs
+ID: 24429 | Title: comparative proteomic and morpho-physiological analyses of maize wild-type vp16 and mutant vp16 germinating seed responses to peg-induced drought stress
+ID: 24433 | Title: a knowledge-based approach for representing jobholder profile toward optimal human–machine collaboration in cyber physical production systems
+ID: 24434 | Title: pedagogical engineering: methodological outline of the project of the minin university
+ID: 24436 | Title: precarization of employment in digital economy
+ID: 24440 | Title: an innovative approach to improve the performances of the research community
+ID: 24441 | Title: intelligent recommendations of startup projects in smart cities and smart health using social media mining
+ID: 24443 | Title: helping the consumers and producers of standards, repositories and policies to enable fair data
+ID: 24445 | Title: formation of the content of the integrative course “linguoculturology�? in the process of professional training of philologists with an additional specialty “history�?
+ID: 24446 | Title: the tower-of-adapters method for developing and reusing problem-solving methods
+ID: 24447 | Title: application of linked open data to the coding and dissemination of spanish civil war photographic archives
+ID: 24448 | Title: justification beliefs and multiple-documents comprehension
+ID: 24449 | Title: semiautomated process for generating knowledge graphs for marginalized community doctoral-recipients
+ID: 24451 | Title: philosophy of interdisciplinarity. what? why? how?
+ID: 24453 | Title: reliability in healthcare simulation setting: a definitional review
+ID: 24456 | Title: rna-seq profiling of intact and enucleated oocyte scnt embryos reveals the role of pig oocyte nucleus in somatic reprogramming
+ID: 24458 | Title: design and evaluation of an environment to automate the construction of inductive applications
+ID: 24459 | Title: knowledge enhanced e-government portal
+ID: 24460 | Title: características de la construcción curricular de las carreras universitarias de contabilidad en chile
+ID: 24461 | Title: estrategias participativas para la enseñanza de las ciencias naturales en la universidad de costa rica (participative strategies for the teaching of natural sciences in the university of costa rica)
+ID: 24462 | Title: is past prologue, or just passed and lacking presence?
+ID: 24464 | Title: ideology and interaction: debating determinisms in literacy studies
+ID: 24467 | Title: a model for enriching automatic assessment resources with free-text annotations
+ID: 24468 | Title: on discourse, communication, and (some) fundamental concepts in sla research
+ID: 24469 | Title: challenges as enablers for high quality linked data: insights from the semantic publishing challenge
+ID: 24470 | Title: the generative and catalytic powers of creative, expressive arts in action research
+ID: 24471 | Title: problem solving for redesign
+ID: 24474 | Title: design, development and maintenance methodology of domain semantic portals of scientific and technical information
+ID: 24475 | Title: design, development and maintenance methodology of domain semantic portals of scientific and technical information
+ID: 24477 | Title: the indigenous sami citizen and norwegian national identity: tensions in curriculum discourses
+ID: 24478 | Title: after paradim: why mixing-methodology theorising fails and how to make it work again
+ID: 24481 | Title: comprensión lectora y una visión de cambio en la formación de administradores de empresas
+ID: 24482 | Title: it skills in romania
+ID: 24483 | Title: methodological empiricism and the choice of measurement models in social sciences
+ID: 24485 | Title: conocimiento escolar, ciencia, institución y democracia
+ID: 24486 | Title: research methods in intercultural communication: a practical guide
+ID: 24487 | Title: empowering academic librarians for effective e-services
+ID: 24488 | Title: the well-designed young mathematician
+ID: 24489 | Title: mémoire: a framework for semantic interoperability of case-based reasoning systems in biology and medicine
+ID: 24490 | Title: constructing expert profiles over time for skills management and expert finding
+ID: 24492 | Title: ingeniería de software en el desarrollo de tecnologías para el apoyo al diseño curricular: un mapeo sistemático
+ID: 24493 | Title: intuition and philosophical methodology
+ID: 24494 | Title: support for collaborative development of a customer solution in railway transport
+ID: 24495 | Title: um estudo de caso: gerenciando e construindo competências em pesquisa e desenvolvimento no laboratório de engenharia de software
+ID: 24496 | Title: entre structure et action : la compétence communicative des tic
+ID: 24497 | Title: the prospect of teacher professionalization under law number 14 of 2005 on teachers and university lecturers
+ID: 24498 | Title: informatização de bibliotecas: a realidade nigeriana
+ID: 24499 | Title: intercultural caring - an abductive model
+ID: 24500 | Title: determining the basis for a taxonomy of mechanical ventilation
+ID: 24501 | Title: groupware: design, implementation, and use : 9th international workshop criwg 2003, autrans, france, september 28 - october 2, 2003 proceedings
+ID: 24502 | Title: a cognitively plausible model for grammar induction
+ID: 24505 | Title: skills of engineers in knowledge based economies: a comprehensive literature review, and model development
+ID: 24508 | Title: positive ideologies ain’t enough! (dis)junctions and paradoxes in minority language protection
+ID: 24511 | Title: reflective style and speech production during academic task solving in university students
+ID: 24513 | Title: workshop abstracts
+ID: 24518 | Title: case studies and use cases as means of effectively demonstrating value and engaging stakeholders
+ID: 24519 | Title: mémoire: case based reasoning meets the semantic web in biology and medicine
+ID: 24520 | Title: designing pedagogical devices
+ID: 24521 | Title: semantic processing of information resources of labour market
+ID: 24522 | Title: the development of programmes for improving the financial literacy to high school
+ID: 24523 | Title: ethnomethodology's program
+ID: 24524 | Title: changing the image of a conflict situation while training school students in mediation skills
+ID: 24525 | Title: restructuring the historical framework
+ID: 24527 | Title: globalization and curriculum
+ID: 24528 | Title: uso del concepto de sucesión ecológica por alumnos de secundaria : la predicción de los cambios en los ecosistemas
+ID: 24529 | Title: la enseñanza universitaria de las teorías de la comunicación en europa y américa latina/teaching communication theory at european and latin american universities
+ID: 24530 | Title: managerial tools of academic knowledge formation process
+ID: 24531 | Title: managerial tools of academic knowledge formation process
+ID: 24532 | Title: medicalização social (ii): limites biomédicos e propostas para a clínica na atenção básica
+ID: 24533 | Title: "managing conversations: the medium for achieving ""breakthrough"" results"
+ID: 24534 | Title: k.h.エーレンフォルト�?�「音楽�?�教授学的解釈�?—対話的陶冶�?�概念�?�も�?�ら�?��?義
+ID: 24535 | Title: uso del concepto de sucesión ecológica por alumnos de secundaria : la predicción de los cambios en los ecosistemas
+ID: 24536 | Title: purpose-driven leadership: the spiritual imperative to guiding schools beyond high-stakes testing and minimum proficiency
+ID: 24537 | Title: k.h.ehrenforth’s “didactic interpretation of music�?: the significance of its perspective on the dialogic bildung
+ID: 24538 | Title: on discourse, communication, and (some) fundamental concepts in sla research
+ID: 24540 | Title: model integrasi ilmu pada silabus mata kuliah psikologi kepribadian
+ID: 24541 | Title: brennan, jason: against democracy: princeton, n.j.: princeton university press, 2016. hardback isbn: 9780691162607, £24.95. 304 pp
+ID: 24542 | Title: knowledge organization content in graduate coursework
+ID: 24543 | Title: entre la tradición y la racionalidad constitucional en marruecos (despliegue y articulación del poder)
+ID: 24545 | Title: 京都大学�?��?��?�る「英語�? : 全学共通科目�?��?��?��?�内実
+ID: 24547 | Title: globalization, democratization and multilateralism
+ID: 24548 | Title: investigating the mathematical equivalence of written and enacted middle school standards-based curricula: focus on rational numbers
+ID: 24550 | Title: системи комп’ютер�?их о�?тологій як з�?сіб формув�?�?�?я проектув�?ль�?их компете�?т�?остей м�?йбут�?іх і�?же�?ерів-пед�?гогів
+ID: 24551 | Title: more reliable data for diarrhoeal intervention programmes: rethinking on knowledge, attitude and practice studies
+ID: 24552 | Title: toward an approach to create self-organizing and reflexive information systems project practitioners
+ID: 24553 | Title: employee relationship and knowledge sharing: a case study of a taiwanese finance and securities firm
+ID: 24554 | Title: knowledge representation for culturally competent personal robots: requirements, design principles, implementation, and assessment
+ID: 24555 | Title: constitutive rules for guiding the use of the viable system model: reflections on practice
+ID: 24556 | Title: kognitive leistungsfähigkeit älterer arbeitnehmer
+ID: 24558 | Title: providing knowledge support in business process: a context based approach
+ID: 24559 | Title: ghrh-sst-gh-igf axis regulates crosstalk between growth and immunity in rainbow trout (oncorhynchus mykiss) infected with vibrio anguillarum
+ID: 24560 | Title: uso del concepto de sucesión ecológica por alumnos de secundaria : la predicción de los cambios en los ecosistemas
+ID: 24561 | Title: building information modelling knowledge harvesting for energy efficiency in the construction industry
+ID: 24562 | Title: o ensino médio e técnico na conjuntura do avanço de políticas ultraconservadoras: desafios teóricos e políticos
+ID: 24564 | Title: 
+ID: 24566 | Title: drinking and smoking polygenic risk is associated with childhood and early-adulthood psychiatric and behavioral traits independently of substance use and psychiatric genetic risk
+ID: 24567 | Title: enseñanza-aprendizaje de la biología a través de los juegos didácticos
+ID: 24568 | Title: egzistencijalni, instrumentalni kiberneti�?ki prostori kao ontološki modusi ljudskog bića
+ID: 24569 | Title: semantic codes of the modern profession “teacher�?: invariants and innovations
+ID: 24570 | Title: toward an approach to create selforganizing and reflexive information systems project practitioners
+ID: 24571 | Title: method for constructing a cad training course
+ID: 24572 | Title: моделюванн�? предметної обла�?ті �?и�?теми адаптивної передтренажерної підготовки майбутніх авіади�?петчерів з елементами �?амо�?пр�?мованого навчанн�?
+ID: 24573 | Title: dynamic transcriptome analysis of ovarian follicles in artificial maturing japanese eel (anguilla japonica)
+ID: 24574 | Title: identification of mirnas mediating shoot growth of grafted sweet cherry through small rna and degradome sequencing
+ID: 24575 | Title: more than a thought bubble: the uluru statement from the heart and indigenous voice to parliament
+ID: 24577 | Title: transcriptomic analysis of the developing testis and spermatogenesis in qianbei ma goats
+ID: 24578 | Title: tiempo y gubernamentalidad: aproximaciones al gobierno del tiempo en el neoliberalismo
+ID: 24579 | Title: perceptions of consumption: constituting potters, farmers and blacksmiths in the culinary continuum in eastern tigray, northern highland ethiopia
+ID: 24580 | Title: between don quixote and hamlet: vicissitudes of contemporary cultural psychiatry
+ID: 24581 | Title: malek’s programmatic secularism? a dissent
+ID: 24583 | Title: therapeutic use of metaphors in medical english scenario writing: a case study of nervous system writing by three medical majors in xinxiang medical university
+ID: 24584 | Title: the profession of modeling and simulation
+ID: 24586 | Title: the complete business process handbook: body of knowledge from process modeling to bpm
+ID: 24587 | Title: el legado de nuestros mayores, formación y praxis pedagógica
+ID: 24588 | Title: consciência histórica, narrativa histórica e a inter-relação com o ensino de história
+ID: 24590 | Title: the model of assistance to people with problem eating behavior and weight disorders
+ID: 24591 | Title: using tag clouds to support the comparison of qualifications, résumés and job profiles
+ID: 24592 | Title: the complete business process handbook
+ID: 24593 | Title: aproximación filosófica a la didáctica de las lenguas-culturas: la fenomenología en la perspectiva accional
+ID: 24594 | Title: whose traditions count? questioning new urbanism’s traditional neighborhood in the american south
+ID: 24595 | Title: digital forensics
+ID: 24596 | Title: mindful evaluation: cultivating our ability to be reflexive and self-aware
+ID: 24597 | Title: anàlisi videogràfica per avaluar els aprenentatges en les pràctiques externes de la formació inicial de docents de secundària
+ID: 24598 | Title: the complete business process handbook: body of knowledge from process modeling to bpm, volume 1
+ID: 24599 | Title: dibuixar les formes corporals en la pedagogia: pensar el cos més enllà de la carn / dessiner les formes corporelles dans la pédagogie : penser le corps bien au-delà de la chair
+ID: 24600 | Title: gene expression in the arcuate nucleus of heifers is affected by controlled intake of high- and low-concentrate diets1
+ID: 24601 | Title: "shakespeare by numbers: mathematical crisis in ""troilus and cressida"""
+ID: 24603 | Title: chomsky and his critics
+ID: 24604 | Title: supporting the study process using semantic web technologies
+ID: 24605 | Title: the systematization of pre-professional practice and its articulation with research skills
+ID: 24606 | Title: the systematization of pre-professional practice and its articulation with research skills
+ID: 24607 | Title: toward a traceable, explainable, and fairjd/resume recommendation system
+ID: 24608 | Title: creationism usa: bridging the impasse on teaching evolution
+ID: 24609 | Title: progress and challenges in precision medicine
+ID: 24610 | Title: school knowledge, science, institution and democracy
+ID: 24612 | Title: enterprise interoperability: i-esa'12 proceedings
+ID: 24613 | Title: computer aided systems theory - eurocast'99: a selection of papers from the 7th international workshop on computer aided systems theory vienna, austria, september 29 - october 2, 1999 proceedings
+ID: 24614 | Title: conceptual modeling - er 2001: 20th international conference on conceptual modeling, yokohama, japan, november 27-30, 2001, proceedings
+ID: 24615 | Title: the layer-seeds term clustering method: enabling proactive situation-aware product recommendations in e-commerce dialogues
+ID: 24616 | Title: edison data science framework: part 5. edsf use cases and applications (edsf-uca) release 4
+ID: 24617 | Title: edison data science framework: part 5. edsf use cases and applications (edsf-uca) release 4
+ID: 24618 | Title: edison data science framework: part 5. edsf use cases and applications (edsf-uca) release 4
+ID: 24619 | Title: knowledge acquisition, modeling and management: 11th european workshop, ekaw'99, dagstuhl castle, germany, may 26-29, 1999, proceedings
+ID: 24620 | Title: 教育実践�?��?�論化�?�視点�?��?��?��?�「存在論的�?�新�?�?�関�?�る一考察
+ID: 24621 | Title: when cultures meet: modelling cross-cultural knowledge spaces
+ID: 24622 | Title: evaluation of the arts-based research programme of the austrian science fund (peek)
+ID: 24623 | Title: evaluation of the arts-based research programme of the austrian science fund (peek)
+ID: 24624 | Title: harmonizing abet accreditation and the certification of systems engineers
+ID: 24625 | Title: о�?тологическ�?я модель профессио�?�?ль�?ого ст�?�?овле�?ия учителя
+ID: 24626 | Title: benedictus pererius: renaissance culture at the origins of jesuit science
+ID: 24627 | Title: 教育実践�?��?�論化�?�視点�?��?��?��?�「存在論的�?�新�?�?�関�?�る一考察
+ID: 24628 | Title: estrategias participativas para la enseñanza de las ciencias naturales en la universidad de costa rica
+ID: 24629 | Title: purpose-drivien leadership: the spiritual imperative to guiding schools beyond high-stakes testing and minimum proficiency
+ID: 24631 | Title: solving vt in vital: a study in model construction and knowledge reuse
+ID: 24632 | Title: designing for knowledge maturing: from knowledge-driven software to supporting the facilitation of knowledge development
+ID: 24633 | Title: when cultures meet: modelling cross-cultural knowledge spaces
+ID: 24634 | Title: creaminka : an intelligent ecosystem for supporting management and information discovery in research and innovation fields in universities
+ID: 24635 | Title: sobre el concepto marroquí de constitución y sus implicaciones
+ID: 24636 | Title: cisis 2012 keynote
+ID: 24637 | Title: managing conversations: the medium for achieving 'breakthrough'results
+ID: 24638 | Title: mediation in new media production: representation and involvement of audiences/users at nesta futurelab
+ID: 24639 | Title: book review
+ID: 24640 | Title: complexity and local interactions: towards a theory of industrial districts
+ID: 24641 | Title: reviews
+ID: 69648 | Title: a knowledge-skill-competencies e-learning model in mathematics
+ID: 69691 | Title: the ai4citizen pilot: pipelining ai-based technologies to support school-work alternation programmes
+ID: 69700 | Title: a knowledge model for iot-enabled smart banking
+ID: 69706 | Title: human intelligence in the process of semantic content creation
+ID: 69709 | Title: systematic analysis of information management challenges within long-term collaborative networks
+ID: 69720 | Title: towards creating an evolvable semantic platform for formation of research teams
+ID: 69727 | Title: extracting knowledge from xml document repository: a semantic web-based approach
+ID: 69729 | Title: the unified problem-solving method development language upml
+ID: 69731 | Title: modeling semantic context for active e-learning in the workplace
+ID: 69735 | Title: modelling of the ward round process in a healthcare unit
+ID: 69740 | Title: ambient-aware continuous care through semantic context dissemination
+ID: 69743 | Title: skill modelling for digital factories
+ID: 69746 | Title: a strategy for preparing software organizations for statistical process control
+ID: 69756 | Title: heterogeneous information exchanges in the construction industry
+ID: 69758 | Title: trustworthiness of voice-based assistants: integrating interlocutor and intermediary predictors
+ID: 69759 | Title: a philosophical history of programmatic assessment: tracing shifting configurations
+ID: 69762 | Title: concept extraction applied to the task of expert finding
+ID: 69764 | Title: machine intelligence today: applications, methodology, and technology
+ID: 69766 | Title: modeling the autism spectrum disorder phenotype
+ID: 69768 | Title: a framework for management of virtual organization breeding environments
+ID: 69770 | Title: extraction of domain-specific concepts to create expertise profiles
+ID: 69771 | Title: matching strategies
+ID: 69772 | Title: a cloud-based solution/reference architecture for establishing collaborative networked organizations
+ID: 69773 | Title: interoperability standards for adaptive instructional systems: vertical and horizontal integrations
+ID: 69775 | Title: a comprehensive modeling framework for collaborative networked organizations
+ID: 69777 | Title: towards a holistic semantic support for context-aware network monitoring
+ID: 69779 | Title: a semantic architecture for preserving and interpreting the information contained in irish historical vital records
+ID: 69780 | Title: the massif platform: a modular and semantic platform for the development of flexible iot services
+ID: 69781 | Title: toward manufacturing system composability analysis: a use case scenario
+ID: 69786 | Title: towards the integration of agricultural data from heterogeneous sources: perspectives for the french agricultural context using semantic technologies
+ID: 69787 | Title: a framework for collaboration moderator services to support knowledge based collaboration
+ID: 69788 | Title: understanding relationships: classifying verb phrase semantics
+ID: 69790 | Title: an xml multi-agent system for e-learning and skill management
+ID: 69792 | Title: semantic business process space for intelligent management of sales order business processes
+ID: 69793 | Title: heterophenomenology reconsidered
+ID: 69794 | Title: service contract negotiation – agent-based support for open service environments
+ID: 69797 | Title: evaluating cardiac health through semantic soft computing techniques
+ID: 69798 | Title: integrating co-development and fit coordination
+ID: 69799 | Title: research notes on developing a formal organizational language
+ID: 69804 | Title: a descriptive framework for the field of knowledge management
+ID: 69812 | Title: towards a semantic modelling framework in support of multimodal user interface design
+ID: 69813 | Title: vision e-company: the network-centric enterprises
+ID: 69817 | Title: business evolution and enterprise integration
+ID: 69818 | Title: technology, mathematucs, and industry
+ID: 69821 | Title: organizational schemata of e-portfolios for fostering higher-order thinking
+ID: 69830 | Title: escaping the trap of too precise topic queries
+ID: 69832 | Title: web-based adaptive tutoring: an approach based on logic agents and reasoning about actions
+ID: 69833 | Title: supporting assessment autonomy: how one small school articulated the infrastructure needed to own and use student data
+ID: 69836 | Title: generational analysis of variety in data structures: impact on automatic data integration and on the semantic web
+ID: 69841 | Title: the qdacity-re method for structural domain modeling using qualitative data analysis
+ID: 69843 | Title: editorial
+ID: 69848 | Title: revisiting and versioning in virtual special reports
+ID: 69849 | Title: process-based analysis of digitally transforming skills
+ID: 69853 | Title: frame detection over the semantic web
+ID: 69854 | Title: declarative specifications for adaptive hypermedia based on a semantic web approach
+ID: 69857 | Title: social network-aware interfaces as facilitators of innovation
+ID: 69875 | Title: using semantic documentation to support software project management
+ID: 69888 | Title: end-to-end provenance representation for the understandability and reproducibility of scientific experiments using a semantic approach
+ID: 69894 | Title: knowledge modeling and incident analysis for special cargo
+ID: 69898 | Title: a vision for the development of i-campus
+ID: 69899 | Title: networking humans and non-humans
+ID: 69901 | Title: semantically interconnected social networks
+ID: 69903 | Title: electronic invoice management in the pharmaceutical sector: the pharmainnova case
+ID: 69906 | Title: blending under deconstruction
+ID: 69910 | Title: modelling languages: perspectives and abstraction mechanisms
+ID: 69914 | Title: ideal words
+ID: 69915 | Title: pattern use in knowledge architectures:an example from information logistics
+ID: 69920 | Title: a semantic parliamentary multimedia approach for retrieval of video clips with content understanding
+ID: 69925 | Title: context-aware, proactive delivery of task-specific information: the knowmore project
+ID: 69926 | Title: the opacity of law: on the hidden impact of experts’ opinion on legal decision-making
+ID: 69927 | Title: advanced personalized feedback in e-assessment systems with recommender engine
+ID: 69928 | Title: vo breeding environments \& virtual organizations integral business process management framework
+ID: 69929 | Title: semantically enabling clinical decision support recommendations
+ID: 69931 | Title: on-to-knowledge methodology (otkm)
+ID: 69933 | Title: virtual organisation breeding environments value system and its elements
+ID: 69934 | Title: e3forces: understanding strategies of networked e3value constellations by analyzing environmental forces
+ID: 69938 | Title: business semantics as an interface between enterprise information management and the web of data: a case study in the flemish public administration
+ID: 69939 | Title: the fragility of knowledge
+ID: 69940 | Title: a pattern driven approach to knowledge representation in the disaster domain
+ID: 69941 | Title: implementing situation-aware and user-adaptive music recommendation service in semantic web and real-time multimedia computing environment
+ID: 69945 | Title: molecular characterization of larval development from fertilization to metamorphosis in a reef-building coral
+ID: 69947 | Title: reconceptualization of borderlands, borders, and spaces within a multi-theoretical perspective
+ID: 69948 | Title: a modelling environment for business process as a service
+ID: 69950 | Title: semantics-aware detection of targeted attacks: a survey
+ID: 69951 | Title: identity, nationalism and the response of turkey to covid-19 pandemic
+ID: 69952 | Title: proactive knowledge delivery for enterprise knowledge management
+ID: 69953 | Title: exploring enterprise knowledge graphs: a use case in software engineering
+ID: 69955 | Title: pgxo and pgxlod: a reconciliation of pharmacogenomic knowledge of various provenances, enabling further comparison
+ID: 69956 | Title: aicef: an ai-assisted cyber exercise content generation framework using named entity recognition
+ID: 69958 | Title: business and it alignment: the it-socket
+ID: 69959 | Title: the properties of knowledge within the firm
+ID: 69961 | Title: an onto-semiotic analysis of combinatorial problems and the solving processes by university students
+ID: 69962 | Title: reasoning-based patient classification for enhanced medical image annotation
+ID: 69964 | Title: enhancing second-order empathy in medical practice by supplementing patients’ narratives with certainties
+ID: 69965 | Title: mathematical knowledge representation: semantic models and formalisms
+ID: 69966 | Title: on the realization of the recognition-primed decision model for artificial agents
+ID: 69968 | Title: semantic harmonization for seamless networked supply chain planning in the future of internet
+ID: 69969 | Title: music emotion classification and context-based music recommendation
+ID: 69970 | Title: a framework for integrating deep and shallow semantic structures in text mining
+ID: 69972 | Title: a comment on the discussion of conrad russell's academic freedom
+ID: 69973 | Title: putting rouge on the corpse: cosmopolitan joyce and modern culture
+ID: 69974 | Title: business model innovation: a review of the process-based literature
+ID: 69976 | Title: im-tag: informal mentoring improved by means of social web contents tagging
+ID: 69977 | Title: moral responsibility and the practical point of view
+ID: 69978 | Title: a reference architecture for an enterprise knowledge infrastructure
+ID: 69979 | Title: developing protégé to structure medical report
+ID: 69980 | Title: a modeling framework for collaborative networked organizations
+ID: 69981 | Title: use of rdf for expertise matching within academia
+ID: 69983 | Title: methods and tools for developing intelligent systems for solving complex real-time adaptive resource management problems
+ID: 69984 | Title: governmentalities without policy capacity
+ID: 69985 | Title: supporting complex decision making by semantic technologies
+ID: 69986 | Title: curriculum, caring for the earth, and planetary responsibility
+ID: 69987 | Title: power-conferring rules
+ID: 69988 | Title: cognisance of consciousness in the study of animal knowledge
+ID: 69989 | Title: problematic aspects of the interactionist idea of self
+ID: 69990 | Title: experience breeding in process-aware information systems
+ID: 69991 | Title: special issue on “semantic web: opportunities and challenges�?
+ID: 69992 | Title: online capability-based resource allocation for on-site construction operations utilizing digital twin models
+ID: 69993 | Title: capability modelling and knowledge management
+ID: 69994 | Title: semantic modelling of virtual organizations with service network schemata
+ID: 69995 | Title: how to cut a concept? review of doing without concepts by edouard machery
+ID: 69996 | Title: toward the use of petri nets for the formalization of owl-s choreographies
+ID: 69997 | Title: an extended global software engineering taxonomy
+ID: 69998 | Title: towards semantic collective awareness platforms for business innovation
+ID: 69999 | Title: user-friendly interaction in an on-line system based on semantic technologies
+ID: 70000 | Title: a flexible composition engine for adaptive web sites
+ID: 70001 | Title: umwelt transitions: uexküll and environmental change
+ID: 70002 | Title: narrative cartography with knowledge graphs
+ID: 70003 | Title: semantic role labeling for knowledge graph extraction from text
+ID: 70004 | Title: the philosophy of roman ingarden
+ID: 70005 | Title: limiting the role of government
+ID: 70006 | Title: requirements definition for domain-specific modelling languages: the comvantage case
+ID: 70007 | Title: transcriptional profiling of genes involved in embryogenic, non-embryogenic calluses and somatic embryogenesis of valencia sweet orange by ssh-based microarray
+ID: 70008 | Title: a development cycle for automated self-exploration of robot behaviors
+ID: 70009 | Title: 1. introduction
+ID: 70010 | Title: pacific crystal project: explicit literacy instruction embedded in middle school science classrooms
+ID: 70011 | Title: components for case-based reasoning systems
+ID: 70012 | Title: symptom management, supportive and palliative care: «the continuum of care in the cancer patient» the seom’s continuing care section
+ID: 70013 | Title: the case for eliminativism about words
+ID: 70014 | Title: introductions
+ID: 70015 | Title: knowledge management capability framework
+ID: 70016 | Title: construction and characterization of an expressed sequenced tag library for the mosquito vector armigeres subalbatus
+ID: 70017 | Title: 1000 years of coo-bdi
+ID: 70018 | Title: clustering patents using non-exhaustive overlaps
+ID: 70019 | Title: from cues to nudge: a knowledge-based framework for surveillance of healthcare-associated infections
+ID: 70020 | Title: exploring rdf for expertise matching within an organizational memory
+ID: 70021 | Title: design of user-centric semantic rights model for validation of user-generated content
+ID: 70022 | Title: conscience and life
+ID: 70023 | Title: “super-intelligent�? machine: technological exuberance or the road to subjection
+ID: 70024 | Title: a conceptual framework for “professional virtual communities�?
+ID: 70025 | Title: metaphilosophy and the role of intuitions
+ID: 70026 | Title: walker percy: language, neuropsychology, and moral tradition
+ID: 70027 | Title: quality issue in the design and use of resources by mathematics teachers
+ID: 70028 | Title: digital ecosystems for business e-services in knowledge-intensive firms
+ID: 70029 | Title: evaluation of apels – an adaptive elearning service based on the multi-model, metadata-driven approach
+ID: 70030 | Title: knowledge base support for dynamic information system management
+ID: 70031 | Title: african philosophy in comparison with western philosophy
+ID: 70032 | Title: locating the child centrally as subject in research: towards a child interpretation of well-being
+ID: 70033 | Title: morality and writing in the baroque
+ID: 70034 | Title: psychologistic semantics and moral truth
+ID: 70035 | Title: programming rational agents in a modal action logic
+ID: 70036 | Title: a method for developing generic capability maps
+ID: 70037 | Title: implications and conclusions
+ID: 70038 | Title: questioning the foundation of practical philosophy
+ID: 70039 | Title: the madhyamaka critique of epistemology ii
+ID: 70040 | Title: comparative analysis of the syntactic and semantic consistency of terms in software testing glossaries
+ID: 70041 | Title: netexpert: agent-based expertise location by means of social and knowledge networks
+ID: 70042 | Title: book review
+ID: 70043 | Title: rethinking rural entrepreneurship in the era of globalization: some observations from iran
+ID: 70044 | Title: phenomenology and self-understanding in the modern world: the crisis of modernity and the possibility of a new and critical anthropology
+ID: 70045 | Title: intuitions in philosophy: a minimal defense
+ID: 70046 | Title: review
+ID: 70047 | Title: on legal contracts, imperative and declarative smart contracts, and blockchain systems
+ID: 70048 | Title: efficient cultural models of verbal behavior for communicative agents
+ID: 70049 | Title: phenomenology and the salvation of truth: heidegger’s shift in the beiträge zur philosophie
+ID: 70050 | Title: on the dialogue between physics and philosophy
+ID: 70051 | Title: editor's note
+ID: 70052 | Title: rational ignorance
+ID: 70053 | Title: no identity
+ID: 70054 | Title: prose qualities in 19th century realism
+ID: 70055 | Title: e. gaining security expertise
+ID: 70056 | Title: classifying the precancers: a metadata approach
+ID: 70057 | Title: a humean explanation of acting on normative reasons
+ID: 98752 | Title: ‘african dances are valid knowledge’: dance teachers’ de/construction of meanings from cultural heritage dances in uganda
+ID: 98754 | Title: 22nd international conference on professional culture of the specialist of the future, pcsf 2022
+ID: 98761 | Title: ceur workshop proceedings
+ID: 98766 | Title: surgical portfolios: a systematic scoping review
+ID: 98771 | Title: a strategic proposal for the new society: surviving and flourishing from chaos
+ID: 98772 | Title: remote experiment and balance between monodisciplinarity and pluridisciplinarity
+ID: 98778 | Title: «in our universities, sociologists are not taught to theorize» (interview with g.a. kliucharev)
+ID: 98790 | Title: use of semantic technologies for validation of e-learning outcomes
+ID: 98791 | Title: a framework to assist in didactic planning at undergraduate level
+ID: 98792 | Title: towards the technology of employers’ requirements collection development
+ID: 98793 | Title: problematic of the assessment activity within adaptive e-learning systems
+ID: 98794 | Title: multimodal transduction and translanguaging in deaf pedagogy
+ID: 98801 | Title: emotional states management for an advanced intelligent tutoring system
+ID: 98807 | Title: a knowledge-model for ai-driven tutoring systems
+ID: 98810 | Title: losing oneself: tutorial innovations as potential drivers of extrinsic motivation and poor wellbeing in university students
+ID: 98817 | Title: validation of a semantic search engine for academic resources on engineering teamwork
+ID: 98818 | Title: technology and translator training
+ID: 98822 | Title: a nature’s way—our way pilot project case assemblage: (re)storying child/physical literacy/land relationships for indigenous preschool-aged children’s wholistic wellness
+ID: 98826 | Title: development of knowledge base of intellectual system for support of formal and informal training of it staff
+ID: 98830 | Title: the model of curriculum constructor
+ID: 98831 | Title: information support of design innovation activity of the technical university
+ID: 98835 | Title: pbl and social inclusion
+ID: 98838 | Title: job pre-interview system with artificial intelligence
+ID: 98841 | Title: from content management to e-learning content repositories
+ID: 98844 | Title: integrating social media into an instructional design support system
+ID: 98848 | Title: procedia computer science
+ID: 98854 | Title: innovation in user-centered skills and performance improvement for sustainable complex service systems
+ID: 98855 | Title: application of semantic web technologies to facilitate use of e-learning system on mobile devices
+ID: 98858 | Title: changing the image of a conflict situation while training school students in mediation skills
+ID: 98872 | Title: how surgeons conceptualize talent: a qualitative study using sport science as a lens
+ID: 98873 | Title: a recommender system as a support and training tool
+ID: 98877 | Title: modeling semantic context for active e-learning in the workplace
+ID: 98879 | Title: knowledge graph: semantic representation and assessment of innovation ecosystems
+ID: 98882 | Title: using tag clouds to support the comparison of qualifications, résumés and job profiles
+ID: 98885 | Title: sharing knowledge engineering for digital humanities
+ID: 98890 | Title: procedia manufacturing
+ID: 98892 | Title: ifip wg 5.7 international conference on advances in production management systems, apms 2012
+ID: 98894 | Title: designing for knowledge maturing: from knowledge-driven software to supporting the facilitation of knowledge development
+ID: 98900 | Title: discourse on humanistic clinical care and nurse healing
+ID: 98902 | Title: knowledge management within the medical university
+ID: 98903 | Title: managerial tools of academic knowledge formation process
+ID: 98905 | Title: 3rd international conference on e-learning, e-education, and online training, eleot 2016
+ID: 98908 | Title: knowledge-based model for curricular design in ecuadorian universities
+ID: 98916 | Title: stsim: semantic-web based tool to student instruction monitoring
+ID: 98920 | Title: concept frame for curricular innovation in health care schools
+ID: 98923 | Title: a knowledge representation model for massive open online course platforms
+ID: 98925 | Title: 11th joint conference on knowledge-based software engineering, jckbse 2014
+ID: 98926 | Title: 2014 world conference on information systems and technologies, worldcist 2014
+ID: 98938 | Title: design of adaptive micro-content in second language acquisition
+ID: 98941 | Title: use of ecological concepts by secondary school students: the prediction of changes in ecosystems
+ID: 98948 | Title: postcolonialism and the 2030 agenda in latin america: comparative analysis of the perception of sustainable development by students from cuba and spain
+ID: 98951 | Title: researching and reorienting mentorship practices to empower the success of indigenous australian young people
+ID: 98952 | Title: exosomal mir-211-5p regulates glucose metabolism, pyroptosis, and immune microenvironment of melanoma through gna15
+ID: 98960 | Title: moving from physical literacy to co-existing physical literacies: what is the problem?
+ID: 98961 | Title: 32nd international convention proceedings: microelectronics, electronics and electronic technology, meet and grid and visualizations systems, gvs
+ID: 98975 | Title: professional empowerment in the software industry through experience-driven shared tacit knowledge: a case study from china
+ID: 98978 | Title: researching what we practice—the paradigm of systemic family research: part 2
+ID: 98979 | Title: towards semantic management of on-device applications in industrial iot
+ID: 98980 | Title: proceedings of the 2008 international conference on e-learning, e-business, enterprise information systems, and e-government, eee 2008
+ID: 98987 | Title: the grid that bridges the gap
+ID: 98988 | Title: 32nd international convention proceedings: computers in technical systems and intelligent systems
+ID: 98992 | Title: 32nd international convention proceedings: digital economy 6th aladin, information systems security, business intelligence systems, local government and student papers
+ID: 98994 | Title: designing e-learning courses in humanities and their use in the interuniversity study programmes
+ID: 98998 | Title: the influence of descriptive language practices on the process of external integration of corporate knowledge
+ID: 99003 | Title: spontaneous ethics in nurses’ willingness to work during a pandemic
+ID: 99006 | Title: 32nd international convention proceedings: telecommunications and information
+ID: 99011 | Title: toward an approach to create self-organizing and reflexive information systems project practitioners
+ID: 99013 | Title: internship in the impasse of the duality of theory and practice: representation, imitation, compatibility, and tension in the university-industry relationship
+ID: 99014 | Title: towards a theory of socio-technical interactions
+ID: 99019 | Title: a cloud-native web application for assisted metadata generation and retrieval: thespian-ner †
+ID: 99020 | Title: 5th international conference on metadata and semantic research, mtsr 2011
+ID: 99023 | Title: two-eyed seeing and scientific holism in a new science|environment|health pedagogy
+ID: 99024 | Title: foundational models for manipulation activity parsing
+ID: 99030 | Title: workshops on idams, soea4ee, tear, the edoc forum and the demonstration and doctoral consortium track, held at the 26th international conference on enterprise design, operations, and computing, edoc 2022
+ID: 99034 | Title: an evaluation of pedagogically informed parameterised questions for self-assessment
+ID: 99035 | Title: ensuring semantic annotation and retrieval within pervasive e-learning systems
+ID: 99037 | Title: food in science, science in food–interdisciplinarity in science/chemistry and home economics’ lower secondary curricula across three countries
+ID: 99041 | Title: becoming the temporary surgeon: a grounded theory examination of anaesthetists performing emergency front of neck access in inter-disciplinary simulationbased training
+ID: 99045 | Title: 3rd international conference on smart applications and data analysis for smart cyber-physical systems, sadasc 2020
+ID: 99047 | Title: 13th kes conference on agent and multi-agent systems: technologies and applications, kes-amsta 2019
+ID: 99048 | Title: intelligent recommendations of startup projects in smart cities and smart health using social media mining
+ID: 99056 | Title: adapting stem automated assessment system to enhance language skills
+ID: 99059 | Title: allocation of human resources in sustainable production context
+ID: 99063 | Title: 34th international conference on industrial, engineering and other applications of applied intelligent systems, iea/aie 2021
+ID: 99065 | Title: de-disciplining humanity: the humanities’ case for critical management literacy
+ID: 99068 | Title: collective emotional intelligence and group dynamics interplay: can it be tangible and measurable?
+ID: 99069 | Title: 12th international scientific and practical conference on environment. technology. resources, 2019
+ID: 99071 | Title: 13th ifip working conference on the practice of enterprise modeling, poem 2020
+ID: 99073 | Title: screen-based simulation for training and automated assessment of teamwork skills: comparing 2 modes with different interactivity
+ID: 99076 | Title: a context-aware architecture for realizing business process adaptation strategies using fuzzy planning
+ID: 99082 | Title: constitutive rules for guiding the use of the viable system model: reflections on practice
+ID: 99087 | Title: ai medical school tutor: modelling and implementation
+ID: 99088 | Title: 17th russian conference on artificial intelligence, rcai 2019
+ID: 99090 | Title: 21st international multidisciplinary conference on reliability and statistics in transportation and communication, relstat 2021
+ID: 99091 | Title: epistemic mapping: essential tool in research practice
+ID: 99093 | Title: towards a context-aware personalized formative assessment in a collaborative online environment
+ID: 99097 | Title: aggregation of engineering and language skills development in the global information environment
+ID: 99100 | Title: dialogue and artificial intelligence
+ID: 99101 | Title: 34th international conference on industrial, engineering and other applications of applied intelligent systems, iea/aie 2021
+ID: 99104 | Title: videographic analysis for assessment of the external work placements in the initial stages of secondary school teacher training
+ID: 99105 | Title: (l)earning by doing –»blockchainifying« life-long volunteer engagement
+ID: 99106 | Title: comparative study of assessment through text and video exercises for the identification of elements of a scientific investigation
+ID: 99108 | Title: ai-based elearning for training project managers to navigate in vuca environments
+ID: 99109 | Title: drinking and smoking polygenic risk is associated with childhood and early-adulthood psychiatric and behavioral traits independently of substance use and psychiatric genetic risk
+ID: 99110 | Title: baltic-db and is-forum-dc 2020 - joint proceedings of baltic db and is 2020 conference forum and doctoral consortium, co-located with the 14th international baltic conference on databases and information systems, baltic db and is 2020
+ID: 99111 | Title: longitudinal study of a website for assessing american presidential candidates and decision making of potential election irregularities detection
+ID: 99113 | Title: a study of emotional adjectives in teaching chinese as a foreign language: a perspective of cognitive metaphor theory
+ID: 99119 | Title: 14th international conference on computational collective intelligence , iccci 2022
+ID: 99125 | Title: why privilege a single form of communication if there are many?
+ID: 99126 | Title: intonation-grammatic deviations in modern media speech
+ID: 99129 | Title: an application of the caritative caring approach–nursing students’ experiences of practising caring and uncaring encounters by simulation at a clinical training centre
+ID: 99130 | Title: building information modelling knowledge harvesting for energy efficiency in the construction industry
+ID: 99133 | Title: the integration of psychology and linguistics from the perspective of cognitive science—the example of the psychological reality of language
+ID: 99134 | Title: development of integrated information systems to support scientific activity
+ID: 99135 | Title: how to support digital sustainability assessment? an attempt to knowledge systematization
+ID: 99136 | Title: humanitarization of university and social engagement mission
+ID: 99137 | Title: the informational and semiotic nature of french socio-political terminology and its thesaurus modeling
+ID: 99138 | Title: engineering pedagogy in the context of engineering activity
+ID: 99139 | Title: a proposal of pedagogic orientations from the “nuestramerica�? philosophy for the teaching of philosophy in colombia
+ID: 99144 | Title: development of an intelligent surgical training system for thoracentesis
+ID: 99149 | Title: semantic formative e-assessment for project management professionals
+ID: 99151 | Title: national component in russian word-formation: linguodidactic aspect
+ID: 99153 | Title: is past prologue, or just passed and lacking presence?
+ID: 99155 | Title: 4th international workshop on graph structures for knowledge representation and reasoning, gkr 2015
+ID: 99162 | Title: 26th international conference on case-based reasoning, iccbr 2018
+ID: 99167 | Title: effectiveness of a clinical decision support system for pointing device prescription
+ID: 99169 | Title: lia: a natural language programmable personal assistant
+ID: 99172 | Title: durio concept evaluation
+ID: 99174 | Title: 3rd international conference on digital arts, media and technology, icdamt 2018
+ID: 99176 | Title: semantic web technology as a tool for integrating training and job market supply chains
+ID: 99178 | Title: formation of professionalism of executives
+ID: 99179 | Title: fall of the public teacher – discourse of intimacy and the teaching profession in denmark
+ID: 99180 | Title: towards a common and semantic representation of e-portfolios
+ID: 99185 | Title: differential experience with men’s and women’s health care visits between male and female family medicine residents
+ID: 99186 | Title: ahfe 2017 international conferences on human factors in management and leadership, and business management and society, 2017
+ID: 99189 | Title: intelligence reach for expertise (irex)
+ID: 99191 | Title: marmi 2016 - proceedings of the 2016 acm 1st international workshop on multimedia analysis and retrieval for multimodal interaction, co-located with icmr 2016
+ID: 99193 | Title: 12th international workshop on enterprise and organizational modeling and simulation, eomas 2016
+ID: 99200 | Title: knowledge organization content in graduate coursework
+ID: 99201 | Title: gathering and conceptualizing plan-based robot activity experiences
+ID: 99202 | Title: oncologist’s knowledge and implementation of guidelines for breakthrough cancer pain in spain: conoce study
+ID: 99205 | Title: construction of individual trajectories of training specialists in the field of information and communication technologies
+ID: 99208 | Title: platform for computer-aided harmonization of informatics curricula
+ID: 99210 | Title: philosophy of interdisciplinarity. what? why? how?
+ID: 99220 | Title: 3rd international conference on technologies and innovation, citi 2017
+ID: 99221 | Title: a political ethics of care perspective in researching emotions
+ID: 99222 | Title: the role, importance and challenges of social sciences and humanities in the work of the intergovernmental science-policy platform on biodiversity and ecosystem services (ipbes)
+ID: 99224 | Title: between don quixote and hamlet: vicissitudes of contemporary cultural psychiatry
+ID: 99229 | Title: 16th international semantic web conference, iswc 2017
+ID: 99236 | Title: mapss: an intelligent architecture for the pedagogical support
+ID: 99237 | Title: how social and semantic technologies can sustain employability through knowledge development and positive behavioral changes
+ID: 99238 | Title: world conference on information systems and technologies, worldcist 2019
+ID: 99239 | Title: a minimalist model of the artificial autonomous moral agent (aama)
+ID: 99241 | Title: linking aims, paradigm and method in nursing research
+ID: 99242 | Title: iceis 2010 - proceedings of the 12th international conference on enterprise information systems
+ID: 99245 | Title: sin'09 - proceedings of the 2nd international conference on security of information and networks
+ID: 99247 | Title: constructing expert profiles over time for skills management and expert finding
+ID: 99254 | Title: 2013 4th international conference on information and communication technology and accessibility, icta 2013
+ID: 99255 | Title: proceedings of the 5th international workshop on semantic web user interaction: exploring hci challenges, swui 2008 - collocated with chi 2008
+ID: 99257 | Title: organizational, business, and technological aspects of the knowledge society - third world summit on the knowledge society, wsks 2010, proceedings
+ID: 99264 | Title: an approach for the personalization of exercises based on contextualized attention metadata and semantic web technologies
+ID: 99266 | Title: warning: a grade 7 student disrupts narrative boundaries
+ID: 99267 | Title: the complete business process handbook: body of knowledge from process modeling to bpm
+ID: 99268 | Title: beyond the 'cultural turn': the politics of recognition versus the politics of redistribution in the field of intercultural communication
+ID: 99269 | Title: an organizational memory tool for e-learning
+ID: 99272 | Title: semantic enhancement of the course curriculum design process
+ID: 99276 | Title: ability of expert physicians to structure clinical guidelines: reality versus perception
+ID: 99277 | Title: proceedings of the 2013 39th latin american computing conference, clei 2013
+ID: 99280 | Title: concept extraction applied to the task of expert finding
+ID: 99285 | Title: automatic generation of assessment objects and remedial works for moocs
+ID: 99286 | Title: knowledge management, information systems, e-learning, and sustainability research - third world summit on the knowledge society, wsks 2010, proceedings
+ID: 99287 | Title: modelling of the ward round process in a healthcare unit
+ID: 99288 | Title: supporting the study process using semantic web technologies
+ID: 99289 | Title: globalization and curriculum
+ID: 99290 | Title: visioning and engineering the knowledge society: a web science perspective - second world summit on the knowledge society, wsks 2009, proceedings
+ID: 99291 | Title: skills of engineers in knowledge based economies: a comprehensive literature review, and model development
+ID: 99292 | Title: 2013 3rd international symposium isko-maghreb
+ID: 99293 | Title: 6th international conference on hybrid artificial intelligent systems, hais 2011
+ID: 99295 | Title: a taxonomy for mechanical ventilation: 10 fundamental maxims
+ID: 99300 | Title: maths for medications: an analytical exemplar of the social organization of nurses' knowledge
+ID: 99304 | Title: iceis 2010 - proceedings of the 12th international conference on enterprise information systems
+ID: 99306 | Title: advanced information systems engineering workshops - caise 2011 international workshops, proceedings
+ID: 99312 | Title: investigating the mathematical equivalence of written and enacted middle school standards-based curricula: focus on rational numbers
+ID: 99315 | Title: critical language and intercultural communication pedagogy
+ID: 99316 | Title: iceis 2010 - proceedings of the 12th international conference on enterprise information systems
+ID: 99318 | Title: school knowledge, science, institution and democracy
+ID: 99319 | Title: knowledge technology - third knowledge technology week, ktw 2011, revised selected papers
+ID: 99321 | Title: 8th international conference on cooperative design, visualization, and engineering, cdve 2011
+ID: 99327 | Title: iceis 2010 - proceedings of the 12th international conference on enterprise information systems
+ID: 99328 | Title: conversational agents in language and culture training
+ID: 99330 | Title: iceis 2010 - proceedings of the 12th international conference on enterprise information systems
+ID: 99333 | Title: 6th international conference on hybrid artificial intelligent systems, hais 2011
+ID: 99334 | Title: case-based analysis in user requirements modelling for knowledge construction
+ID: 99337 | Title: metadata and semantic research - 5th international conference, mtsr 2011, proceedings
+ID: 99341 | Title: 11th european workshop on knowledge acquisition, modeling and management, ekaw 1999
+ID: 99344 | Title: globalization and curriculum
+ID: 99350 | Title: intelligent visual reasoning tutor
+ID: 99351 | Title: world englishes and applied linguistics
+ID: 99354 | Title: establishing a health community knowledge management system
+ID: 99355 | Title: intercultural caring - an abductive model
+ID: 99358 | Title: more reliable data for diarrhoeal intervention programmes: rethinking on knowledge, attitude and practice studies
+ID: 99359 | Title: ifip tc5 wg 5.5 6th ifip working conference on virtual enterprises, pro-ve 2005
+ID: 99361 | Title: "cognitive and emotion interaction is a ""ped"" human capital"
+ID: 99364 | Title: diversity of developmental trajectories in natural and artificial intelligence
+ID: 99366 | Title: towards a paradigm-oriented approach in physiotherapy
+ID: 99368 | Title: solving vt in vital: a study in model construction and knowledge reuse
+ID: 99369 | Title: personal epistemologies and older workers
+ID: 99370 | Title: finding an identity and meeting a standard: connecting the conflicting in teacher induction
+ID: 99371 | Title: a matter of the heart: epideictic rhetoric and heidegger's call of conscience
+ID: 99374 | Title: mémoire: a framework for semantic interoperability of case-based reasoning systems in biology and medicine
+ID: 99378 | Title: kantian philosophy of mathematics and young robots
+ID: 99381 | Title: an organizational memory tool for e-learning
+ID: 99383 | Title: meet: modelling cross-cultural knowledge spaces
+ID: 99384 | Title: the well-designed young mathematician
+ID: 99387 | Title: perspectives in the field of psychology of abilities studies
+ID: 99388 | Title: managing conversations: the medium for achieving “breakthrough�? results
+ID: 99390 | Title: purpose-driven leadership: the spiritual imperative to guiding schools beyond high-stakes testing and minimum proficiency
+ID: 99392 | Title: providing multimedia recommendations based on a markov decision process inside e-learning platforms
+ID: 99393 | Title: mixing domains: architecture plus software engineering
+ID: 99394 | Title: cooperative knowledge acquisition & knowledge refinement systems: a review of their use in intelligent systems &their roles in the semantic web
+ID: 99396 | Title: information literacy landscapes: an emerging picture
+ID: 99399 | Title: providing knowledge support in business process: a context based approach
+ID: 99401 | Title: monitoring the status of a research community through a knowledge map
+ID: 99405 | Title: intelligent visual reasoning tutor: an intelligent tutoring system for visual reasoning in engineering & architecture
+ID: 99406 | Title: vbe pilot demonstrators
+ID: 99412 | Title: 2nd symposium on professional practice in artificial intelligence, 2006
+ID: 99414 | Title: "from ""wiggly structures"" to ""unshaky towers"": problem framing, solution finding, and negotiation of courses of actions during a civil engineering unit for elementary students"
+ID: 99415 | Title: design and evaluation of an environment to automate the construction of inductive applications
