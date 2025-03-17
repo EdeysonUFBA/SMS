@@ -347,7 +347,7 @@ ID Paper;Title
 98969;Affordances of machine-processable competency modelling
 98970;Modeling project management competences: An ontology-based solution for competency-based learning
 98985;The ELEKTRA ontology model: A learner-centered approach to resource description
-98991;Ontology-Based Methodology for Knowledge Maps Design
+98991;Ontology-Based Methodology for Knowledge Maps Design
 98997;Ontology-based approach to formalization of competencies
 98998;The Influence of Descriptive Language Practices on the Process of External Integration of Corporate Knowledge
 98999;Ontology-based learning content recommendation

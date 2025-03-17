@@ -1,0 +1,5 @@
+A Competence Management System for Universities
+Competence web-based assessment for lifelong learning
+Ontology-Based Education/Industry Collaboration Modeling: Opportunities and Challenges
+Ontology-Based Education/Industry Collaboration System
+Software design for the evaluation of competency based learning in engineering careers Ontological approach for modeling

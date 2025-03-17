@@ -1,0 +1,16 @@
+A Competency-Oriented Modeling Approach for Personalized E-Learning Systems
+A formal model of competence-based assessment
+A formalism of the competency-based approach in adaptive learning systems
+A semantic web architecture for integrating competence management and learning paths
+An adaptive strategy to help students in e-Learning systems using competency-based ontology and agents
+An innovative ontology-driven system supporting personnel selection - The OntoHR case
+An Ontology-centered Approach for Designing an Interactive Competence Management System for IT Companies
+Competency comparison relations for recommendation in technology enhanced learning scenarios
+Cooperative education development - Towards ICT reference models
+Designing Customisable Data Science Curriculum Using Ontology for Data Science Competences and Body of Knowledge
+Development of Ontology Based Competence Management Model for Non-Formal Education Services
+Extending Moodle functionalities with ontology-based competency management
+Ontology-Based Competency Management: Infrastructures for the Knowledge Intensive Learning Organization
+Ontology-Based Model Sustaining Competence Management within Corporates: Competence Certification in CSR
+The Opportunities of Cloud Computing for Managing Competences and Learning Paths in Pharmacy
+Transforming a competency model to parameterised questions in assessment

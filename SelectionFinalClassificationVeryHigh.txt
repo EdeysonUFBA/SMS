@@ -1,0 +1,25 @@
+A new competency ontology for learning environments personalization
+Adaptive Learning Objects Sequencing for Competence-Based Learning
+An Ontology and a Software Framework for Competency Modeling and Management
+An Ontology-Based Approach for the Semantic Representation of Job Knowledge
+An ontology for describing competency-based curriculum at engineering careers
+An Ontology-Based Approach to Competency Modeling and Management in Learning Networks
+An ontology-based model for competence management
+An ontology-based multi-level semantic representation model for learning objects annotation
+Bridging Education and Labor Skills by a Novel Competency-Based Course Linked-Data Model
+Bridging the gap between competency based approach and intelligent tutoring systems
+Competency-based personalization for massive online learning
+Computing with competencies: Modelling organizational capacities
+Design and development of Learning objects based on conceptual model - Competency-based approach
+Design of a learner model based on the competency-based approach ontology
+Design Principles for Competence Management in Curriculum Development
+Generative instructional engineering of competence development programmes
+Integration of Competencies in an Ontology-Based Framework Supporting Teachers to Construct Learning Designs in the Domain of Sustainable Energy Education
+Interoperability Framework for Competences and Learning Outcomes
+Modelagem de uma Ontologia de Domínio com Foco em Competências para Sistemas de Recomendação na Educação
+Modeling competencies in competency-based learning: Classification and cartography
+Ontology for continuous learning and support
+Ontology of the CBA: Towards Operationalization and Implementation
+Reasoning about Skills and Competencies
+The ontology of the competency-based approach and the perspectives of implementation
+Towards a Semantic Framework for Lifelong Integrated Competency Management and Development
